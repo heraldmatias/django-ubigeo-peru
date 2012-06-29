@@ -1,0 +1,3 @@
+include README.md
+recursive-include ubigeo/static *
+recursive-include ubigeo/templates *
