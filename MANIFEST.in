@@ -1,3 +1,3 @@
 include README.md
 recursive-include ubigeo/static *
-recursive-include ubigeo/templates *
+recursive-include ubigeo/migrations *.yaml

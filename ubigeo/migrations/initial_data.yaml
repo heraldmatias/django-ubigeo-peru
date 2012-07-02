@@ -1,0 +1,6453 @@
+-   fields: {name: AMAZONAS, parent: null}
+    model: ubigeo.ubigeo
+    pk: '010000'
+-   fields: {name: CHACHAPOYAS, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010100'
+-   fields: {name: CHACHAPOYAS, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010101'
+-   fields: {name: ASUNCION, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010102'
+-   fields: {name: BALSAS, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010103'
+-   fields: {name: CHETO, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010104'
+-   fields: {name: CHILIQUIN, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010105'
+-   fields: {name: CHUQUIBAMBA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010106'
+-   fields: {name: GRANADA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010107'
+-   fields: {name: HUANCAS, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: 010108
+-   fields: {name: LA JALCA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: 010109
+-   fields: {name: LEYMEBAMBA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010110'
+-   fields: {name: LEVANTO, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010111'
+-   fields: {name: MAGDALENA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010112'
+-   fields: {name: MARISCAL CASTILLA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010113'
+-   fields: {name: MOLINOPAMPA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010114'
+-   fields: {name: MONTEVIDEO, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010115'
+-   fields: {name: OLLEROS, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010116'
+-   fields: {name: QUINJALCA, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010117'
+-   fields: {name: SAN FRANCISCO DE DAGUAS, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: 010118
+-   fields: {name: SAN ISIDRO DE MAINO, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: 010119
+-   fields: {name: SOLOCO, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010120'
+-   fields: {name: SONCHE, parent: '010100'}
+    model: ubigeo.ubigeo
+    pk: '010121'
+-   fields: {name: BAGUA, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010200'
+-   fields: {name: LA PECA, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010201'
+-   fields: {name: ARAMANGO, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010202'
+-   fields: {name: COPALLIN, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010203'
+-   fields: {name: EL PARCO, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010204'
+-   fields: {name: BAGUA, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010205'
+-   fields: {name: IMAZA, parent: '010200'}
+    model: ubigeo.ubigeo
+    pk: '010206'
+-   fields: {name: BONGARA, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010300'
+-   fields: {name: JUMBILLA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010301'
+-   fields: {name: COROSHA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010302'
+-   fields: {name: CUISPES, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010303'
+-   fields: {name: CHISQUILLA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010304'
+-   fields: {name: CHURUJA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010305'
+-   fields: {name: FLORIDA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010306'
+-   fields: {name: RECTA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010307'
+-   fields: {name: SAN CARLOS, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: 010308
+-   fields: {name: SHIPASBAMBA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: 010309
+-   fields: {name: VALERA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010310'
+-   fields: {name: YAMBRASBAMBA, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010311'
+-   fields: {name: JAZAN, parent: '010300'}
+    model: ubigeo.ubigeo
+    pk: '010312'
+-   fields: {name: LUYA, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010400'
+-   fields: {name: LAMUD, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010401'
+-   fields: {name: CAMPORREDONDO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010402'
+-   fields: {name: COCABAMBA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010403'
+-   fields: {name: COLCAMAR, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010404'
+-   fields: {name: CONILA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010405'
+-   fields: {name: INGUILPATA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010406'
+-   fields: {name: LONGUITA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010407'
+-   fields: {name: LONYA CHICO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: 010408
+-   fields: {name: LUYA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: 010409
+-   fields: {name: LUYA VIEJO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010410'
+-   fields: {name: MARIA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010411'
+-   fields: {name: OCALLI, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010412'
+-   fields: {name: OCUMAL, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010413'
+-   fields: {name: PISUQUIA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010414'
+-   fields: {name: SAN CRISTOBAL, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010415'
+-   fields: {name: SAN FRANCISCO DEL YESO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010416'
+-   fields: {name: SAN JERONIMO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010417'
+-   fields: {name: SAN JUAN DE LOPECANCHA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: 010418
+-   fields: {name: SANTA CATALINA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: 010419
+-   fields: {name: SANTO TOMAS, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010420'
+-   fields: {name: TINGO, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010421'
+-   fields: {name: TRITA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010422'
+-   fields: {name: PROVIDENCIA, parent: '010400'}
+    model: ubigeo.ubigeo
+    pk: '010423'
+-   fields: {name: RODRIGUEZ DE MENDOZA, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010500'
+-   fields: {name: SAN NICOLAS, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010501'
+-   fields: {name: COCHAMAL, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010502'
+-   fields: {name: CHIRIMOTO, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010503'
+-   fields: {name: HUAMBO, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010504'
+-   fields: {name: LIMABAMBA, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010505'
+-   fields: {name: LONGAR, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010506'
+-   fields: {name: MILPUCC, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010507'
+-   fields: {name: MARISCAL BENAVIDES, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: 010508
+-   fields: {name: OMIA, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: 010509
+-   fields: {name: SANTA ROSA, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010510'
+-   fields: {name: TOTORA, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010511'
+-   fields: {name: VISTA ALEGRE, parent: '010500'}
+    model: ubigeo.ubigeo
+    pk: '010512'
+-   fields: {name: CONDORCANQUI, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010600'
+-   fields: {name: NIEVA, parent: '010600'}
+    model: ubigeo.ubigeo
+    pk: '010601'
+-   fields: {name: RIO SANTIAGO, parent: '010600'}
+    model: ubigeo.ubigeo
+    pk: '010602'
+-   fields: {name: EL CENEPA, parent: '010600'}
+    model: ubigeo.ubigeo
+    pk: '010603'
+-   fields: {name: UTCUBAMBA, parent: '010000'}
+    model: ubigeo.ubigeo
+    pk: '010700'
+-   fields: {name: BAGUA GRANDE, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010701'
+-   fields: {name: CAJARURO, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010702'
+-   fields: {name: CUMBA, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010703'
+-   fields: {name: EL MILAGRO, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010704'
+-   fields: {name: JAMALCA, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010705'
+-   fields: {name: LONYA GRANDE, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010706'
+-   fields: {name: YAMON, parent: '010700'}
+    model: ubigeo.ubigeo
+    pk: '010707'
+-   fields: {name: ANCASH, parent: null}
+    model: ubigeo.ubigeo
+    pk: '020000'
+-   fields: {name: HUARAZ, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020100'
+-   fields: {name: HUARAZ, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020101'
+-   fields: {name: INDEPENDENCIA, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020102'
+-   fields: {name: COCHABAMBA, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020103'
+-   fields: {name: COLCABAMBA, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020104'
+-   fields: {name: HUANCHAY, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020105'
+-   fields: {name: JANGAS, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020106'
+-   fields: {name: LA LIBERTAD, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020107'
+-   fields: {name: OLLEROS, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: 020108
+-   fields: {name: PAMPAS, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: 020109
+-   fields: {name: PARIACOTO, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020110'
+-   fields: {name: PIRA, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020111'
+-   fields: {name: TARICA, parent: '020100'}
+    model: ubigeo.ubigeo
+    pk: '020112'
+-   fields: {name: AIJA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020200'
+-   fields: {name: AIJA, parent: '020200'}
+    model: ubigeo.ubigeo
+    pk: '020201'
+-   fields: {name: CORIS, parent: '020200'}
+    model: ubigeo.ubigeo
+    pk: '020203'
+-   fields: {name: HUACLLAN, parent: '020200'}
+    model: ubigeo.ubigeo
+    pk: '020205'
+-   fields: {name: LA MERCED, parent: '020200'}
+    model: ubigeo.ubigeo
+    pk: '020206'
+-   fields: {name: SUCCHA, parent: '020200'}
+    model: ubigeo.ubigeo
+    pk: 020208
+-   fields: {name: BOLOGNESI, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020300'
+-   fields: {name: CHIQUIAN, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020301'
+-   fields: {name: ABELARDO PARDO LEZAMETA, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020302'
+-   fields: {name: AQUIA, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020304'
+-   fields: {name: CAJACAY, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020305'
+-   fields: {name: HUAYLLACAYAN, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020310'
+-   fields: {name: HUASTA, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020311'
+-   fields: {name: MANGAS, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020313'
+-   fields: {name: PACLLON, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020315'
+-   fields: {name: SAN MIGUEL DE CORPANQUI, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020317'
+-   fields: {name: TICLLOS, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020320'
+-   fields: {name: ANTONIO RAYMONDI, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020321'
+-   fields: {name: CANIS, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020322'
+-   fields: {name: COLQUIOC, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020323'
+-   fields: {name: LA PRIMAVERA, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020324'
+-   fields: {name: HUALLANCA, parent: '020300'}
+    model: ubigeo.ubigeo
+    pk: '020325'
+-   fields: {name: CARHUAZ, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020400'
+-   fields: {name: CARHUAZ, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020401'
+-   fields: {name: ACOPAMPA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020402'
+-   fields: {name: AMASHCA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020403'
+-   fields: {name: ANTA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020404'
+-   fields: {name: ATAQUERO, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020405'
+-   fields: {name: MARCARA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020406'
+-   fields: {name: PARIAHUANCA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020407'
+-   fields: {name: SAN MIGUEL DE ACO, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: 020408
+-   fields: {name: SHILLA, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: 020409
+-   fields: {name: TINCO, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020410'
+-   fields: {name: YUNGAR, parent: '020400'}
+    model: ubigeo.ubigeo
+    pk: '020411'
+-   fields: {name: CASMA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020500'
+-   fields: {name: CASMA, parent: '020500'}
+    model: ubigeo.ubigeo
+    pk: '020501'
+-   fields: {name: BUENA VISTA ALTA, parent: '020500'}
+    model: ubigeo.ubigeo
+    pk: '020502'
+-   fields: {name: COMANDANTE NOEL, parent: '020500'}
+    model: ubigeo.ubigeo
+    pk: '020503'
+-   fields: {name: YAUTAN, parent: '020500'}
+    model: ubigeo.ubigeo
+    pk: '020505'
+-   fields: {name: CORONGO, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020600'
+-   fields: {name: CORONGO, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020601'
+-   fields: {name: ACO, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020602'
+-   fields: {name: BAMBAS, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020603'
+-   fields: {name: CUSCA, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020604'
+-   fields: {name: LA PAMPA, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020605'
+-   fields: {name: YANAC, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020606'
+-   fields: {name: YUPAN, parent: '020600'}
+    model: ubigeo.ubigeo
+    pk: '020607'
+-   fields: {name: HUAYLAS, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '020700'
+-   fields: {name: CARAZ, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020701'
+-   fields: {name: HUALLANCA, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020702'
+-   fields: {name: HUATA, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020703'
+-   fields: {name: HUAYLAS, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020704'
+-   fields: {name: MATO, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020705'
+-   fields: {name: PAMPAROMAS, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020706'
+-   fields: {name: PUEBLO LIBRE, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020707'
+-   fields: {name: SANTA CRUZ, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: 020708
+-   fields: {name: YURACMARCA, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: 020709
+-   fields: {name: SANTO TORIBIO, parent: '020700'}
+    model: ubigeo.ubigeo
+    pk: '020710'
+-   fields: {name: HUARI, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: 020800
+-   fields: {name: HUARI, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020801
+-   fields: {name: CAJAY, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020802
+-   fields: {name: CHAVIN DE HUANTAR, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020803
+-   fields: {name: HUACACHI, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020804
+-   fields: {name: HUACHIS, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020805
+-   fields: {name: HUACCHIS, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020806
+-   fields: {name: HUANTAR, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020807
+-   fields: {name: MASIN, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020808
+-   fields: {name: PAUCAS, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020809
+-   fields: {name: PONTO, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020810
+-   fields: {name: RAHUAPAMPA, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020811
+-   fields: {name: RAPAYAN, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020812
+-   fields: {name: SAN MARCOS, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020813
+-   fields: {name: SAN PEDRO DE CHANA, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020814
+-   fields: {name: UCO, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020815
+-   fields: {name: ANRA, parent: 020800}
+    model: ubigeo.ubigeo
+    pk: 020816
+-   fields: {name: MARISCAL LUZURIAGA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: 020900
+-   fields: {name: PISCOBAMBA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020901
+-   fields: {name: CASCA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020902
+-   fields: {name: LUCMA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020903
+-   fields: {name: FIDEL OLIVAS ESCUDERO, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020904
+-   fields: {name: LLAMA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020905
+-   fields: {name: LLUMPA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020906
+-   fields: {name: MUSGA, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020907
+-   fields: {name: ELEAZAR GUZMAN BARRON, parent: 020900}
+    model: ubigeo.ubigeo
+    pk: 020908
+-   fields: {name: PALLASCA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021000'
+-   fields: {name: CABANA, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021001'
+-   fields: {name: BOLOGNESI, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021002'
+-   fields: {name: CONCHUCOS, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021003'
+-   fields: {name: HUACASCHUQUE, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021004'
+-   fields: {name: HUANDOVAL, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021005'
+-   fields: {name: LACABAMBA, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021006'
+-   fields: {name: LLAPO, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021007'
+-   fields: {name: PALLASCA, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: 021008
+-   fields: {name: PAMPAS, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: 021009
+-   fields: {name: SANTA ROSA, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021010'
+-   fields: {name: TAUCA, parent: '021000'}
+    model: ubigeo.ubigeo
+    pk: '021011'
+-   fields: {name: POMABAMBA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021100'
+-   fields: {name: POMABAMBA, parent: '021100'}
+    model: ubigeo.ubigeo
+    pk: '021101'
+-   fields: {name: HUAYLLAN, parent: '021100'}
+    model: ubigeo.ubigeo
+    pk: '021102'
+-   fields: {name: PAROBAMBA, parent: '021100'}
+    model: ubigeo.ubigeo
+    pk: '021103'
+-   fields: {name: QUINUABAMBA, parent: '021100'}
+    model: ubigeo.ubigeo
+    pk: '021104'
+-   fields: {name: RECUAY, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021200'
+-   fields: {name: RECUAY, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021201'
+-   fields: {name: COTAPARACO, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021202'
+-   fields: {name: HUAYLLAPAMPA, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021203'
+-   fields: {name: MARCA, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021204'
+-   fields: {name: PAMPAS CHICO, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021205'
+-   fields: {name: PARARIN, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021206'
+-   fields: {name: TAPACOCHA, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021207'
+-   fields: {name: TICAPAMPA, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: 021208
+-   fields: {name: LLACLLIN, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: 021209
+-   fields: {name: CATAC, parent: '021200'}
+    model: ubigeo.ubigeo
+    pk: '021210'
+-   fields: {name: SANTA, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021300'
+-   fields: {name: CHIMBOTE, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021301'
+-   fields: {name: CACERES DEL PERU, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021302'
+-   fields: {name: MACATE, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021303'
+-   fields: {name: MORO, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021304'
+-   fields: {name: "NEPE\xD1A", parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021305'
+-   fields: {name: SAMANCO, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021306'
+-   fields: {name: SANTA, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: '021307'
+-   fields: {name: COISHCO, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: 021308
+-   fields: {name: NUEVO CHIMBOTE, parent: '021300'}
+    model: ubigeo.ubigeo
+    pk: 021309
+-   fields: {name: SIHUAS, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021400'
+-   fields: {name: SIHUAS, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021401'
+-   fields: {name: ALFONSO UGARTE, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021402'
+-   fields: {name: CHINGALPO, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021403'
+-   fields: {name: HUAYLLABAMBA, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021404'
+-   fields: {name: QUICHES, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021405'
+-   fields: {name: SICSIBAMBA, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021406'
+-   fields: {name: ACOBAMBA, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021407'
+-   fields: {name: CASHAPAMPA, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: 021408
+-   fields: {name: RAGASH, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: 021409
+-   fields: {name: SAN JUAN, parent: '021400'}
+    model: ubigeo.ubigeo
+    pk: '021410'
+-   fields: {name: YUNGAY, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021500'
+-   fields: {name: YUNGAY, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021501'
+-   fields: {name: CASCAPARA, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021502'
+-   fields: {name: MANCOS, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021503'
+-   fields: {name: MATACOTO, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021504'
+-   fields: {name: QUILLO, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021505'
+-   fields: {name: RANRAHIRCA, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021506'
+-   fields: {name: SHUPLUY, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: '021507'
+-   fields: {name: YANAMA, parent: '021500'}
+    model: ubigeo.ubigeo
+    pk: 021508
+-   fields: {name: ANTONIO RAIMONDI, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021600'
+-   fields: {name: LLAMELLIN, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021601'
+-   fields: {name: ACZO, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021602'
+-   fields: {name: CHACCHO, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021603'
+-   fields: {name: CHINGAS, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021604'
+-   fields: {name: MIRGAS, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021605'
+-   fields: {name: SAN JUAN DE RONTOY, parent: '021600'}
+    model: ubigeo.ubigeo
+    pk: '021606'
+-   fields: {name: CARLOS FERMIN FITZCARRALD, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '021700'
+-   fields: {name: SAN LUIS, parent: '021700'}
+    model: ubigeo.ubigeo
+    pk: '021701'
+-   fields: {name: YAUYA, parent: '021700'}
+    model: ubigeo.ubigeo
+    pk: '021702'
+-   fields: {name: SAN NICOLAS, parent: '021700'}
+    model: ubigeo.ubigeo
+    pk: '021703'
+-   fields: {name: ASUNCION, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: 021800
+-   fields: {name: CHACAS, parent: 021800}
+    model: ubigeo.ubigeo
+    pk: 021801
+-   fields: {name: ACOCHACA, parent: 021800}
+    model: ubigeo.ubigeo
+    pk: 021802
+-   fields: {name: HUARMEY, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: 021900
+-   fields: {name: HUARMEY, parent: 021900}
+    model: ubigeo.ubigeo
+    pk: 021901
+-   fields: {name: COCHAPETI, parent: 021900}
+    model: ubigeo.ubigeo
+    pk: 021902
+-   fields: {name: HUAYAN, parent: 021900}
+    model: ubigeo.ubigeo
+    pk: 021903
+-   fields: {name: MALVAS, parent: 021900}
+    model: ubigeo.ubigeo
+    pk: 021904
+-   fields: {name: CULEBRAS, parent: 021900}
+    model: ubigeo.ubigeo
+    pk: 021905
+-   fields: {name: OCROS, parent: '020000'}
+    model: ubigeo.ubigeo
+    pk: '022000'
+-   fields: {name: ACAS, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022001'
+-   fields: {name: CAJAMARQUILLA, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022002'
+-   fields: {name: CARHUAPAMPA, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022003'
+-   fields: {name: COCHAS, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022004'
+-   fields: {name: CONGAS, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022005'
+-   fields: {name: LLIPA, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022006'
+-   fields: {name: OCROS, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022007'
+-   fields: {name: SAN CRISTOBAL DE RAJAN, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: 022008
+-   fields: {name: SAN PEDRO, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: 022009
+-   fields: {name: SANTIAGO DE CHILCAS, parent: '022000'}
+    model: ubigeo.ubigeo
+    pk: '022010'
+-   fields: {name: APURIMAC, parent: null}
+    model: ubigeo.ubigeo
+    pk: '030000'
+-   fields: {name: ABANCAY, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030100'
+-   fields: {name: ABANCAY, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030101'
+-   fields: {name: CIRCA, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030102'
+-   fields: {name: CURAHUASI, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030103'
+-   fields: {name: CHACOCHE, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030104'
+-   fields: {name: HUANIPACA, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030105'
+-   fields: {name: LAMBRAMA, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030106'
+-   fields: {name: PICHIRHUA, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: '030107'
+-   fields: {name: SAN PEDRO DE CACHORA, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: 030108
+-   fields: {name: TAMBURCO, parent: '030100'}
+    model: ubigeo.ubigeo
+    pk: 030109
+-   fields: {name: AYMARAES, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030200'
+-   fields: {name: CHALHUANCA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030201'
+-   fields: {name: CAPAYA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030202'
+-   fields: {name: CARAYBAMBA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030203'
+-   fields: {name: COLCABAMBA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030204'
+-   fields: {name: COTARUSE, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030205'
+-   fields: {name: CHAPIMARCA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030206'
+-   fields: {name: HUAYLLO, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030207'
+-   fields: {name: LUCRE, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: 030208
+-   fields: {name: POCOHUANCA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: 030209
+-   fields: {name: "SA\xD1AYCA", parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030210'
+-   fields: {name: SORAYA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030211'
+-   fields: {name: TAPAIRIHUA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030212'
+-   fields: {name: TINTAY, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030213'
+-   fields: {name: TORAYA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030214'
+-   fields: {name: YANACA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030215'
+-   fields: {name: "SAN JUAN DE CHAC\xD1A", parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030216'
+-   fields: {name: JUSTO APU SAHUARAURA, parent: '030200'}
+    model: ubigeo.ubigeo
+    pk: '030217'
+-   fields: {name: ANDAHUAYLAS, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030300'
+-   fields: {name: ANDAHUAYLAS, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030301'
+-   fields: {name: ANDARAPA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030302'
+-   fields: {name: CHIARA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030303'
+-   fields: {name: HUANCARAMA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030304'
+-   fields: {name: HUANCARAY, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030305'
+-   fields: {name: KISHUARA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030306'
+-   fields: {name: PACOBAMBA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030307'
+-   fields: {name: PAMPACHIRI, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: 030308
+-   fields: {name: SAN ANTONIO DE CACHI, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: 030309
+-   fields: {name: SAN JERONIMO, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030310'
+-   fields: {name: TALAVERA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030311'
+-   fields: {name: TURPO, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030312'
+-   fields: {name: PACUCHA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030313'
+-   fields: {name: POMACOCHA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030314'
+-   fields: {name: SANTA MARIA DE CHICMO, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030315'
+-   fields: {name: TUMAY HUARACA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030316'
+-   fields: {name: HUAYANA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: '030317'
+-   fields: {name: SAN MIGUEL DE CHACCRAMPA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: 030318
+-   fields: {name: KAQUIABAMBA, parent: '030300'}
+    model: ubigeo.ubigeo
+    pk: 030319
+-   fields: {name: ANTABAMBA, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030400'
+-   fields: {name: ANTABAMBA, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030401'
+-   fields: {name: EL ORO, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030402'
+-   fields: {name: HUAQUIRCA, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030403'
+-   fields: {name: JUAN ESPINOZA MEDRANO, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030404'
+-   fields: {name: OROPESA, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030405'
+-   fields: {name: PACHACONAS, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030406'
+-   fields: {name: SABAINO, parent: '030400'}
+    model: ubigeo.ubigeo
+    pk: '030407'
+-   fields: {name: COTABAMBAS, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030500'
+-   fields: {name: TAMBOBAMBA, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030501'
+-   fields: {name: COYLLURQUI, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030502'
+-   fields: {name: COTABAMBAS, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030503'
+-   fields: {name: HAQUIRA, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030504'
+-   fields: {name: MARA, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030505'
+-   fields: {name: CHALLHUAHUACHO, parent: '030500'}
+    model: ubigeo.ubigeo
+    pk: '030506'
+-   fields: {name: GRAU, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030600'
+-   fields: {name: CHUQUIBAMBILLA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030601'
+-   fields: {name: CURPAHUASI, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030602'
+-   fields: {name: HUAYLLATI, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030603'
+-   fields: {name: MAMARA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030604'
+-   fields: {name: GAMARRA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030605'
+-   fields: {name: MICAELA BASTIDAS, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030606'
+-   fields: {name: PROGRESO, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030607'
+-   fields: {name: PATAYPAMPA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: 030608
+-   fields: {name: SAN ANTONIO, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: 030609
+-   fields: {name: TURPAY, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030610'
+-   fields: {name: VILCABAMBA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030611'
+-   fields: {name: VIRUNDO, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030612'
+-   fields: {name: SANTA ROSA, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030613'
+-   fields: {name: CURASCO, parent: '030600'}
+    model: ubigeo.ubigeo
+    pk: '030614'
+-   fields: {name: CHINCHEROS, parent: '030000'}
+    model: ubigeo.ubigeo
+    pk: '030700'
+-   fields: {name: CHINCHEROS, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030701'
+-   fields: {name: ONGOY, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030702'
+-   fields: {name: OCOBAMBA, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030703'
+-   fields: {name: COCHARCAS, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030704'
+-   fields: {name: ANCO-HUALLO, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030705'
+-   fields: {name: HUACCANA, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030706'
+-   fields: {name: URANMARCA, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: '030707'
+-   fields: {name: RANRACANCHA, parent: '030700'}
+    model: ubigeo.ubigeo
+    pk: 030708
+-   fields: {name: AREQUIPA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '040000'
+-   fields: {name: AREQUIPA, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040100'
+-   fields: {name: AREQUIPA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040101'
+-   fields: {name: CAYMA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040102'
+-   fields: {name: CERRO COLORADO, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040103'
+-   fields: {name: CHARACATO, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040104'
+-   fields: {name: CHIGUATA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040105'
+-   fields: {name: LA JOYA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040106'
+-   fields: {name: MIRAFLORES, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040107'
+-   fields: {name: MOLLEBAYA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040108
+-   fields: {name: PAUCARPATA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040109
+-   fields: {name: POCSI, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040110'
+-   fields: {name: POLOBAYA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040111'
+-   fields: {name: "QUEQUE\xD1A", parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040112'
+-   fields: {name: SABANDIA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040113'
+-   fields: {name: SACHACA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040114'
+-   fields: {name: SAN JUAN DE SIGUAS, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040115'
+-   fields: {name: SAN JUAN DE TARUCANI, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040116'
+-   fields: {name: SANTA ISABEL DE SIGUAS, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040117'
+-   fields: {name: SANTA RITA DE SIHUAS, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040118
+-   fields: {name: SOCABAYA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040119
+-   fields: {name: TIABAYA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040120'
+-   fields: {name: UCHUMAYO, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040121'
+-   fields: {name: VITOR, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040122'
+-   fields: {name: YANAHUARA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040123'
+-   fields: {name: YARABAMBA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040124'
+-   fields: {name: YURA, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040125'
+-   fields: {name: MARIANO MELGAR, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040126'
+-   fields: {name: JACOBO HUNTER, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: '040127'
+-   fields: {name: ALTO SELVA ALEGRE, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040128
+-   fields: {name: JOSE LUIS BUSTAMANTE Y RIVERO, parent: '040100'}
+    model: ubigeo.ubigeo
+    pk: 040129
+-   fields: {name: CAYLLOMA, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040200'
+-   fields: {name: CHIVAY, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040201'
+-   fields: {name: ACHOMA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040202'
+-   fields: {name: CABANACONDE, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040203'
+-   fields: {name: CAYLLOMA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040204'
+-   fields: {name: CALLALLI, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040205'
+-   fields: {name: COPORAQUE, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040206'
+-   fields: {name: HUAMBO, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040207'
+-   fields: {name: HUANCA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: 040208
+-   fields: {name: ICHUPAMPA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: 040209
+-   fields: {name: LARI, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040210'
+-   fields: {name: LLUTA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040211'
+-   fields: {name: MACA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040212'
+-   fields: {name: MADRIGAL, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040213'
+-   fields: {name: SAN ANTONIO DE CHUCA, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040214'
+-   fields: {name: SIBAYO, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040215'
+-   fields: {name: TAPAY, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040216'
+-   fields: {name: TISCO, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040217'
+-   fields: {name: TUTI, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: 040218
+-   fields: {name: YANQUE, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: 040219
+-   fields: {name: MAJES, parent: '040200'}
+    model: ubigeo.ubigeo
+    pk: '040220'
+-   fields: {name: CAMANA, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040300'
+-   fields: {name: CAMANA, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040301'
+-   fields: {name: JOSE MARIA QUIMPER, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040302'
+-   fields: {name: MARIANO NICOLAS VALCARCEL, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040303'
+-   fields: {name: MARISCAL CACERES, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040304'
+-   fields: {name: NICOLAS DE PIEROLA, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040305'
+-   fields: {name: "OCO\xD1A", parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040306'
+-   fields: {name: QUILCA, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: '040307'
+-   fields: {name: SAMUEL PASTOR, parent: '040300'}
+    model: ubigeo.ubigeo
+    pk: 040308
+-   fields: {name: CARAVELI, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040400'
+-   fields: {name: CARAVELI, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040401'
+-   fields: {name: ACARI, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040402'
+-   fields: {name: ATICO, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040403'
+-   fields: {name: ATIQUIPA, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040404'
+-   fields: {name: BELLA UNION, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040405'
+-   fields: {name: CAHUACHO, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040406'
+-   fields: {name: CHALA, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040407'
+-   fields: {name: CHAPARRA, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: 040408
+-   fields: {name: HUANUHUANU, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: 040409
+-   fields: {name: JAQUI, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040410'
+-   fields: {name: LOMAS, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040411'
+-   fields: {name: QUICACHA, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040412'
+-   fields: {name: YAUCA, parent: '040400'}
+    model: ubigeo.ubigeo
+    pk: '040413'
+-   fields: {name: CASTILLA, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040500'
+-   fields: {name: APLAO, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040501'
+-   fields: {name: ANDAGUA, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040502'
+-   fields: {name: AYO, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040503'
+-   fields: {name: CHACHAS, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040504'
+-   fields: {name: CHILCAYMARCA, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040505'
+-   fields: {name: CHOCO, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040506'
+-   fields: {name: HUANCARQUI, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040507'
+-   fields: {name: MACHAGUAY, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: 040508
+-   fields: {name: ORCOPAMPA, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: 040509
+-   fields: {name: PAMPACOLCA, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040510'
+-   fields: {name: TIPAN, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040511'
+-   fields: {name: URACA, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040512'
+-   fields: {name: "U\xD1ON", parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040513'
+-   fields: {name: VIRACO, parent: '040500'}
+    model: ubigeo.ubigeo
+    pk: '040514'
+-   fields: {name: CONDESUYOS, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040600'
+-   fields: {name: CHUQUIBAMBA, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040601'
+-   fields: {name: ANDARAY, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040602'
+-   fields: {name: CAYARANI, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040603'
+-   fields: {name: CHICHAS, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040604'
+-   fields: {name: IRAY, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040605'
+-   fields: {name: SALAMANCA, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040606'
+-   fields: {name: YANAQUIHUA, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: '040607'
+-   fields: {name: RIO GRANDE, parent: '040600'}
+    model: ubigeo.ubigeo
+    pk: 040608
+-   fields: {name: ISLAY, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: '040700'
+-   fields: {name: MOLLENDO, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040701'
+-   fields: {name: COCACHACRA, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040702'
+-   fields: {name: DEAN VALDIVIA, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040703'
+-   fields: {name: ISLAY, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040704'
+-   fields: {name: MEJIA, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040705'
+-   fields: {name: PUNTA DE BOMBON, parent: '040700'}
+    model: ubigeo.ubigeo
+    pk: '040706'
+-   fields: {name: LA UNION, parent: '040000'}
+    model: ubigeo.ubigeo
+    pk: 040800
+-   fields: {name: COTAHUASI, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040801
+-   fields: {name: ALCA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040802
+-   fields: {name: CHARCANA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040803
+-   fields: {name: HUAYNACOTAS, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040804
+-   fields: {name: PAMPAMARCA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040805
+-   fields: {name: PUYCA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040806
+-   fields: {name: QUECHUALLA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040807
+-   fields: {name: SAYLA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040808
+-   fields: {name: TAURIA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040809
+-   fields: {name: TOMEPAMPA, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040810
+-   fields: {name: TORO, parent: 040800}
+    model: ubigeo.ubigeo
+    pk: 040811
+-   fields: {name: AYACUCHO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '050000'
+-   fields: {name: HUAMANGA, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050100'
+-   fields: {name: AYACUCHO, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050101'
+-   fields: {name: ACOS VINCHOS, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050102'
+-   fields: {name: CARMEN ALTO, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050103'
+-   fields: {name: CHIARA, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050104'
+-   fields: {name: QUINUA, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050105'
+-   fields: {name: SAN JOSE DE TICLLAS, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050106'
+-   fields: {name: SAN JUAN BAUTISTA, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050107'
+-   fields: {name: SANTIAGO DE PISCHA, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: 050108
+-   fields: {name: VINCHOS, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: 050109
+-   fields: {name: TAMBILLO, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050110'
+-   fields: {name: ACOCRO, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050111'
+-   fields: {name: SOCOS, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050112'
+-   fields: {name: OCROS, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050113'
+-   fields: {name: PACAYCASA, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050114'
+-   fields: {name: JESUS NAZARENO, parent: '050100'}
+    model: ubigeo.ubigeo
+    pk: '050115'
+-   fields: {name: CANGALLO, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050200'
+-   fields: {name: CANGALLO, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: '050201'
+-   fields: {name: CHUSCHI, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: '050204'
+-   fields: {name: LOS MOROCHUCOS, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: '050206'
+-   fields: {name: PARAS, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: '050207'
+-   fields: {name: TOTOS, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: 050208
+-   fields: {name: MARIA PARADO DE BELLIDO, parent: '050200'}
+    model: ubigeo.ubigeo
+    pk: '050211'
+-   fields: {name: HUANTA, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050300'
+-   fields: {name: HUANTA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050301'
+-   fields: {name: AYAHUANCO, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050302'
+-   fields: {name: HUAMANGUILLA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050303'
+-   fields: {name: IGUAIN, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050304'
+-   fields: {name: LURICOCHA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050305'
+-   fields: {name: SANTILLANA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: '050307'
+-   fields: {name: SIVIA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: 050308
+-   fields: {name: LLOCHEGUA, parent: '050300'}
+    model: ubigeo.ubigeo
+    pk: 050309
+-   fields: {name: LA MAR, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050400'
+-   fields: {name: SAN MIGUEL, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050401'
+-   fields: {name: ANCO, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050402'
+-   fields: {name: AYNA, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050403'
+-   fields: {name: CHILCAS, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050404'
+-   fields: {name: CHUNGUI, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050405'
+-   fields: {name: TAMBO, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050406'
+-   fields: {name: LUIS CARRANZA, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: '050407'
+-   fields: {name: SANTA ROSA, parent: '050400'}
+    model: ubigeo.ubigeo
+    pk: 050408
+-   fields: {name: LUCANAS, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050500'
+-   fields: {name: PUQUIO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050501'
+-   fields: {name: AUCARA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050502'
+-   fields: {name: CABANA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050503'
+-   fields: {name: CARMEN SALCEDO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050504'
+-   fields: {name: "CHAVI\xD1A", parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050506'
+-   fields: {name: CHIPAO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: 050508
+-   fields: {name: HUAC-HUAS, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050510'
+-   fields: {name: LARAMATE, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050511'
+-   fields: {name: LEONCIO PRADO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050512'
+-   fields: {name: LUCANAS, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050513'
+-   fields: {name: LLAUTA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050514'
+-   fields: {name: "OCA\xD1A", parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050516'
+-   fields: {name: OTOCA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050517'
+-   fields: {name: SANCOS, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050520'
+-   fields: {name: SAN JUAN, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050521'
+-   fields: {name: SAN PEDRO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050522'
+-   fields: {name: SANTA ANA DE HUAYCAHUACHO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050524'
+-   fields: {name: SANTA LUCIA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050525'
+-   fields: {name: SAISA, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: 050529
+-   fields: {name: SAN PEDRO DE PALCO, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050531'
+-   fields: {name: SAN CRISTOBAL, parent: '050500'}
+    model: ubigeo.ubigeo
+    pk: '050532'
+-   fields: {name: PARINACOCHAS, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050600'
+-   fields: {name: CORACORA, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050601'
+-   fields: {name: QUEROCOTO, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060614'
+-   fields: {name: "CORONEL CASTA\xD1EDA", parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050604'
+-   fields: {name: CHUMPI, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050605'
+-   fields: {name: PACAPAUSA, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: 050608
+-   fields: {name: PULLO, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050611'
+-   fields: {name: PUYUSCA, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050612'
+-   fields: {name: SAN FRANCISCO DE RAVACAYCO, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050615'
+-   fields: {name: UPAHUACHO, parent: '050600'}
+    model: ubigeo.ubigeo
+    pk: '050616'
+-   fields: {name: VICTOR FAJARDO, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '050700'
+-   fields: {name: HUANCAPI, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050701'
+-   fields: {name: ALCAMENCA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050702'
+-   fields: {name: APONGO, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050703'
+-   fields: {name: CANARIA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050704'
+-   fields: {name: CAYARA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050706'
+-   fields: {name: COLCA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050707'
+-   fields: {name: HUALLA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: 050708
+-   fields: {name: HUAMANQUIQUIA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: 050709
+-   fields: {name: HUANCARAYLLA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050710'
+-   fields: {name: SARHUA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050713'
+-   fields: {name: VILCANCHOS, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050714'
+-   fields: {name: ASQUIPATA, parent: '050700'}
+    model: ubigeo.ubigeo
+    pk: '050715'
+-   fields: {name: HUANCA SANCOS, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: 050800
+-   fields: {name: SANCOS, parent: 050800}
+    model: ubigeo.ubigeo
+    pk: 050801
+-   fields: {name: SACSAMARCA, parent: 050800}
+    model: ubigeo.ubigeo
+    pk: 050802
+-   fields: {name: SANTIAGO DE LUCANAMARCA, parent: 050800}
+    model: ubigeo.ubigeo
+    pk: 050803
+-   fields: {name: CARAPO, parent: 050800}
+    model: ubigeo.ubigeo
+    pk: 050804
+-   fields: {name: VILCAS HUAMAN, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: 050900
+-   fields: {name: VILCAS HUAMAN, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050901
+-   fields: {name: VISCHONGO, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050902
+-   fields: {name: ACCOMARCA, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050903
+-   fields: {name: CARHUANCA, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050904
+-   fields: {name: CONCEPCION, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050905
+-   fields: {name: HUAMBALPA, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050906
+-   fields: {name: SAURAMA, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050907
+-   fields: {name: INDEPENDENCIA, parent: 050900}
+    model: ubigeo.ubigeo
+    pk: 050908
+-   fields: {name: PAUCAR DEL SARA SARA, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '051000'
+-   fields: {name: PAUSA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051001'
+-   fields: {name: COLTA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051002'
+-   fields: {name: CORCULLA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051003'
+-   fields: {name: LAMPA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051004'
+-   fields: {name: MARCABAMBA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051005'
+-   fields: {name: OYOLO, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051006'
+-   fields: {name: PARARCA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051007'
+-   fields: {name: SAN JAVIER DE ALPABAMBA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: 051008
+-   fields: {name: SAN JOSE DE USHUA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: 051009
+-   fields: {name: SARA SARA, parent: '051000'}
+    model: ubigeo.ubigeo
+    pk: '051010'
+-   fields: {name: SUCRE, parent: '050000'}
+    model: ubigeo.ubigeo
+    pk: '051100'
+-   fields: {name: QUEROBAMBA, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051101'
+-   fields: {name: BELEN, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051102'
+-   fields: {name: CHALCOS, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051103'
+-   fields: {name: SAN SALVADOR DE QUIJE, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051104'
+-   fields: {name: PAICO, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051105'
+-   fields: {name: SANTIAGO DE PAUCARAY, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051106'
+-   fields: {name: SAN PEDRO DE LARCAY, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051107'
+-   fields: {name: SORAS, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: 051108
+-   fields: {name: "HUACA\xD1A", parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: 051109
+-   fields: {name: CHILCAYOC, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051110'
+-   fields: {name: MORCOLLA, parent: '051100'}
+    model: ubigeo.ubigeo
+    pk: '051111'
+-   fields: {name: CAJAMARCA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '060000'
+-   fields: {name: CAJAMARCA, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060100'
+-   fields: {name: CAJAMARCA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060101'
+-   fields: {name: ASUNCION, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060102'
+-   fields: {name: COSPAN, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060103'
+-   fields: {name: CHETILLA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060104'
+-   fields: {name: "ENCA\xD1ADA", parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060105'
+-   fields: {name: JESUS, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060106'
+-   fields: {name: "LOS BA\xD1OS DEL INCA", parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060107'
+-   fields: {name: LLACANORA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: 060108
+-   fields: {name: MAGDALENA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: 060109
+-   fields: {name: MATARA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060110'
+-   fields: {name: NAMORA, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060111'
+-   fields: {name: SAN JUAN, parent: '060100'}
+    model: ubigeo.ubigeo
+    pk: '060112'
+-   fields: {name: CAJABAMBA, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060200'
+-   fields: {name: CAJABAMBA, parent: '060200'}
+    model: ubigeo.ubigeo
+    pk: '060201'
+-   fields: {name: CACHACHI, parent: '060200'}
+    model: ubigeo.ubigeo
+    pk: '060202'
+-   fields: {name: CONDEBAMBA, parent: '060200'}
+    model: ubigeo.ubigeo
+    pk: '060203'
+-   fields: {name: SITACOCHA, parent: '060200'}
+    model: ubigeo.ubigeo
+    pk: '060205'
+-   fields: {name: CELENDIN, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060300'
+-   fields: {name: CELENDIN, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060301'
+-   fields: {name: CORTEGANA, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060302'
+-   fields: {name: CHUMUCH, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060303'
+-   fields: {name: HUASMIN, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060304'
+-   fields: {name: JORGE CHAVEZ, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060305'
+-   fields: {name: JOSE GALVEZ, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060306'
+-   fields: {name: MIGUEL IGLESIAS, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060307'
+-   fields: {name: OXAMARCA, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: 060308
+-   fields: {name: SOROCHUCO, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: 060309
+-   fields: {name: SUCRE, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060310'
+-   fields: {name: UTCO, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060311'
+-   fields: {name: LA LIBERTAD DE PALLAN, parent: '060300'}
+    model: ubigeo.ubigeo
+    pk: '060312'
+-   fields: {name: CONTUMAZA, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060400'
+-   fields: {name: CONTUMAZA, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060401'
+-   fields: {name: CHILETE, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060403'
+-   fields: {name: GUZMANGO, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060404'
+-   fields: {name: SAN BENITO, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060405'
+-   fields: {name: CUPISNIQUE, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060406'
+-   fields: {name: TANTARICA, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: '060407'
+-   fields: {name: YONAN, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: 060408
+-   fields: {name: SANTA CRUZ DE TOLED, parent: '060400'}
+    model: ubigeo.ubigeo
+    pk: 060409
+-   fields: {name: CUTERVO, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060500'
+-   fields: {name: CUTERVO, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060501'
+-   fields: {name: CALLAYUC, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060502'
+-   fields: {name: CUJILLO, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060503'
+-   fields: {name: CHOROS, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060504'
+-   fields: {name: LA RAMADA, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060505'
+-   fields: {name: PIMPINGOS, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060506'
+-   fields: {name: QUEROCOTILLO, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060507'
+-   fields: {name: SAN ANDRES DE CUTERVO, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: 060508
+-   fields: {name: SAN JUAN DE CUTERVO, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: 060509
+-   fields: {name: SAN LUIS DE LUCMA, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060510'
+-   fields: {name: SANTA CRUZ, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060511'
+-   fields: {name: SANTO DOMINGO DE LA CAPILLA, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060512'
+-   fields: {name: SANTO TOMAS, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060513'
+-   fields: {name: SOCOTA, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060514'
+-   fields: {name: TORIBIO CASANOVA, parent: '060500'}
+    model: ubigeo.ubigeo
+    pk: '060515'
+-   fields: {name: CHOTA, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060600'
+-   fields: {name: CHOTA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060601'
+-   fields: {name: ANGUIA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060602'
+-   fields: {name: COCHABAMBA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060603'
+-   fields: {name: CONCHAN, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060604'
+-   fields: {name: CHADIN, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060605'
+-   fields: {name: CHIGUIRIP, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060606'
+-   fields: {name: CHIMBAN, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060607'
+-   fields: {name: HUAMBOS, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: 060608
+-   fields: {name: LAJAS, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: 060609
+-   fields: {name: LLAMA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060610'
+-   fields: {name: MIRACOSTA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060611'
+-   fields: {name: PACCHA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060612'
+-   fields: {name: PION, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060613'
+-   fields: {name: TACABAMBA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060615'
+-   fields: {name: TOCMOCHE, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060616'
+-   fields: {name: SAN JUAN DE LICUPIS, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: '060617'
+-   fields: {name: CHOROPAMPA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: 060618
+-   fields: {name: CHALAMARCA, parent: '060600'}
+    model: ubigeo.ubigeo
+    pk: 060619
+-   fields: {name: HUALGAYOC, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '060700'
+-   fields: {name: BAMBAMARCA, parent: '060700'}
+    model: ubigeo.ubigeo
+    pk: '060701'
+-   fields: {name: CHUGUR, parent: '060700'}
+    model: ubigeo.ubigeo
+    pk: '060702'
+-   fields: {name: HUALGAYOC, parent: '060700'}
+    model: ubigeo.ubigeo
+    pk: '060703'
+-   fields: {name: JAEN, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: 060800
+-   fields: {name: JAEN, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060801
+-   fields: {name: BELLAVISTA, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060802
+-   fields: {name: COLASAY, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060803
+-   fields: {name: CHONTALI, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060804
+-   fields: {name: POMAHUACA, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060805
+-   fields: {name: PUCARA, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060806
+-   fields: {name: SALLIQUE, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060807
+-   fields: {name: SAN FELIPE, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060808
+-   fields: {name: SAN JOSE DEL ALTO, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060809
+-   fields: {name: SANTA ROSA, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060810
+-   fields: {name: LAS PIRIAS, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060811
+-   fields: {name: HUABAL, parent: 060800}
+    model: ubigeo.ubigeo
+    pk: 060812
+-   fields: {name: SANTA CRUZ, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: 060900
+-   fields: {name: SANTA CRUZ, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060901
+-   fields: {name: CATACHE, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060902
+-   fields: {name: "CHANCAYBA\xD1OS", parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060903
+-   fields: {name: LA ESPERANZA, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060904
+-   fields: {name: NINABAMBA, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060905
+-   fields: {name: PULAN, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060906
+-   fields: {name: SEXI, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060907
+-   fields: {name: UTICYACU, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060908
+-   fields: {name: YAUYUCAN, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060909
+-   fields: {name: ANDABAMBA, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060910
+-   fields: {name: SAUCEPAMPA, parent: 060900}
+    model: ubigeo.ubigeo
+    pk: 060911
+-   fields: {name: SAN MIGUEL, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '061000'
+-   fields: {name: SAN MIGUEL, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061001'
+-   fields: {name: CALQUIS, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061002'
+-   fields: {name: LA FLORIDA, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061003'
+-   fields: {name: LLAPA, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061004'
+-   fields: {name: NANCHOC, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061005'
+-   fields: {name: NIEPOS, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061006'
+-   fields: {name: SAN GREGORIO, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061007'
+-   fields: {name: SAN SILVESTRE DE COCHAN, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: 061008
+-   fields: {name: EL PRADO, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: 061009
+-   fields: {name: UNION AGUA BLANCA, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061010'
+-   fields: {name: TONGOD, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061011'
+-   fields: {name: CATILLUC, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061012'
+-   fields: {name: BOLIVAR, parent: '061000'}
+    model: ubigeo.ubigeo
+    pk: '061013'
+-   fields: {name: SAN IGNACIO, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '061100'
+-   fields: {name: SAN IGNACIO, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061101'
+-   fields: {name: CHIRINOS, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061102'
+-   fields: {name: HUARANGO, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061103'
+-   fields: {name: NAMBALLE, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061104'
+-   fields: {name: LA COIPA, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061105'
+-   fields: {name: SAN JOSE DE LOURDES, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061106'
+-   fields: {name: TABACONAS, parent: '061100'}
+    model: ubigeo.ubigeo
+    pk: '061107'
+-   fields: {name: SAN MARCOS, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '061200'
+-   fields: {name: PEDRO GALVEZ, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061201'
+-   fields: {name: ICHOCAN, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061202'
+-   fields: {name: GREGORIO PITA, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061203'
+-   fields: {name: JOSE MANUEL QUIROZ, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061204'
+-   fields: {name: EDUARDO VILLANUEVA, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061205'
+-   fields: {name: JOSE SABOGAL, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061206'
+-   fields: {name: CHANCAY, parent: '061200'}
+    model: ubigeo.ubigeo
+    pk: '061207'
+-   fields: {name: SAN PABLO, parent: '060000'}
+    model: ubigeo.ubigeo
+    pk: '061300'
+-   fields: {name: SAN PABLO, parent: '061300'}
+    model: ubigeo.ubigeo
+    pk: '061301'
+-   fields: {name: SAN BERNARDINO, parent: '061300'}
+    model: ubigeo.ubigeo
+    pk: '061302'
+-   fields: {name: SAN LUIS, parent: '061300'}
+    model: ubigeo.ubigeo
+    pk: '061303'
+-   fields: {name: TUMBADEN, parent: '061300'}
+    model: ubigeo.ubigeo
+    pk: '061304'
+-   fields: {name: CUSCO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '070000'
+-   fields: {name: CUSCO, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070100'
+-   fields: {name: CUSCO, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070101'
+-   fields: {name: CCORCA, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070102'
+-   fields: {name: POROY, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070103'
+-   fields: {name: SAN JERONIMO, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070104'
+-   fields: {name: SAN SEBASTIAN, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070105'
+-   fields: {name: SANTIAGO, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070106'
+-   fields: {name: SAYLLA, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: '070107'
+-   fields: {name: WANCHAQ, parent: '070100'}
+    model: ubigeo.ubigeo
+    pk: 070108
+-   fields: {name: ACOMAYO, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070200'
+-   fields: {name: ACOMAYO, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070201'
+-   fields: {name: ACOPIA, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070202'
+-   fields: {name: ACOS, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070203'
+-   fields: {name: POMACANCHI, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070204'
+-   fields: {name: RONDOCAN, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070205'
+-   fields: {name: SANGARARA, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070206'
+-   fields: {name: MOSOC LLACTA, parent: '070200'}
+    model: ubigeo.ubigeo
+    pk: '070207'
+-   fields: {name: ANTA, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070300'
+-   fields: {name: ANTA, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070301'
+-   fields: {name: CHINCHAYPUJIO, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070302'
+-   fields: {name: HUAROCONDO, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070303'
+-   fields: {name: LIMATAMBO, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070304'
+-   fields: {name: MOLLEPATA, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070305'
+-   fields: {name: PUCYURA, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070306'
+-   fields: {name: ZURITE, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: '070307'
+-   fields: {name: CACHIMAYO, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: 070308
+-   fields: {name: ANCAHUASI, parent: '070300'}
+    model: ubigeo.ubigeo
+    pk: 070309
+-   fields: {name: CALCA, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070400'
+-   fields: {name: CALCA, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070401'
+-   fields: {name: COYA, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070402'
+-   fields: {name: LAMAY, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070403'
+-   fields: {name: LARES, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070404'
+-   fields: {name: PISAC, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070405'
+-   fields: {name: SAN SALVADOR, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070406'
+-   fields: {name: TARAY, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: '070407'
+-   fields: {name: YANATILE, parent: '070400'}
+    model: ubigeo.ubigeo
+    pk: 070408
+-   fields: {name: CANAS, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070500'
+-   fields: {name: YANAOCA, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070501'
+-   fields: {name: CHECCA, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070502'
+-   fields: {name: KUNTURKANKI, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070503'
+-   fields: {name: LANGUI, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070504'
+-   fields: {name: LAYO, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070505'
+-   fields: {name: PAMPAMARCA, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070506'
+-   fields: {name: QUEHUE, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: '070507'
+-   fields: {name: TUPAC AMARU, parent: '070500'}
+    model: ubigeo.ubigeo
+    pk: 070508
+-   fields: {name: CANCHIS, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070600'
+-   fields: {name: SICUANI, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070601'
+-   fields: {name: COMBAPATA, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070602'
+-   fields: {name: CHECACUPE, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070603'
+-   fields: {name: MARANGANI, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070604'
+-   fields: {name: PITUMARCA, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070605'
+-   fields: {name: SAN PABLO, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070606'
+-   fields: {name: SAN PEDRO, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: '070607'
+-   fields: {name: TINTA, parent: '070600'}
+    model: ubigeo.ubigeo
+    pk: 070608
+-   fields: {name: CHUMBIVILCAS, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '070700'
+-   fields: {name: SANTO TOMAS, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070701'
+-   fields: {name: CAPACMARCA, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070702'
+-   fields: {name: COLQUEMARCA, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070703'
+-   fields: {name: CHAMACA, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070704'
+-   fields: {name: LIVITACA, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070705'
+-   fields: {name: LLUSCO, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070706'
+-   fields: {name: "QUI\xD1OTA", parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: '070707'
+-   fields: {name: VELILLE, parent: '070700'}
+    model: ubigeo.ubigeo
+    pk: 070708
+-   fields: {name: ESPINAR, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: 070800
+-   fields: {name: ESPINAR, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070801
+-   fields: {name: CONDOROMA, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070802
+-   fields: {name: COPORAQUE, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070803
+-   fields: {name: OCORURO, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070804
+-   fields: {name: PALLPATA, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070805
+-   fields: {name: PICHIGUA, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070806
+-   fields: {name: SUYCKUTAMBO, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070807
+-   fields: {name: ALTO PICHIGUA, parent: 070800}
+    model: ubigeo.ubigeo
+    pk: 070808
+-   fields: {name: LA CONVENCION, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: 070900
+-   fields: {name: SANTA ANA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070901
+-   fields: {name: ECHARATE, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070902
+-   fields: {name: HUAYOPATA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070903
+-   fields: {name: MARANURA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070904
+-   fields: {name: OCOBAMBA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070905
+-   fields: {name: SANTA TERESA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070906
+-   fields: {name: VILCABAMBA, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070907
+-   fields: {name: QUELLOUNO, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070908
+-   fields: {name: KIMBIRI, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070909
+-   fields: {name: PICHARI, parent: 070900}
+    model: ubigeo.ubigeo
+    pk: 070910
+-   fields: {name: PARURO, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '071000'
+-   fields: {name: PARURO, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071001'
+-   fields: {name: ACCHA, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071002'
+-   fields: {name: CCAPI, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071003'
+-   fields: {name: COLCHA, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071004'
+-   fields: {name: HUANOQUITE, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071005'
+-   fields: {name: OMACHA, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071006'
+-   fields: {name: YAURISQUE, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: '071007'
+-   fields: {name: PACCARITAMBO, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: 071008
+-   fields: {name: PILLPINTO, parent: '071000'}
+    model: ubigeo.ubigeo
+    pk: 071009
+-   fields: {name: PAUCARTAMBO, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '071100'
+-   fields: {name: PAUCARTAMBO, parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071101'
+-   fields: {name: CAICAY, parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071102'
+-   fields: {name: COLQUEPATA, parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071103'
+-   fields: {name: CHALLABAMBA, parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071104'
+-   fields: {name: "KOS\xD1IPATA", parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071105'
+-   fields: {name: HUANCARANI, parent: '071100'}
+    model: ubigeo.ubigeo
+    pk: '071106'
+-   fields: {name: QUISPICANCHI, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '071200'
+-   fields: {name: URCOS, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071201'
+-   fields: {name: ANDAHUAYLILLAS, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071202'
+-   fields: {name: CAMANTI, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071203'
+-   fields: {name: CCARHUAYO, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071204'
+-   fields: {name: CCATCA, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071205'
+-   fields: {name: CUSIPATA, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071206'
+-   fields: {name: HUARO, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071207'
+-   fields: {name: LUCRE, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: 071208
+-   fields: {name: MARCAPATA, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: 071209
+-   fields: {name: OCONGATE, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071210'
+-   fields: {name: OROPESA, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071211'
+-   fields: {name: QUIQUIJANA, parent: '071200'}
+    model: ubigeo.ubigeo
+    pk: '071212'
+-   fields: {name: URUBAMBA, parent: '070000'}
+    model: ubigeo.ubigeo
+    pk: '071300'
+-   fields: {name: URUBAMBA, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071301'
+-   fields: {name: CHINCHERO, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071302'
+-   fields: {name: HUAYLLABAMBA, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071303'
+-   fields: {name: MACHUPICCHU, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071304'
+-   fields: {name: MARAS, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071305'
+-   fields: {name: OLLANTAYTAMBO, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071306'
+-   fields: {name: YUCAY, parent: '071300'}
+    model: ubigeo.ubigeo
+    pk: '071307'
+-   fields: {name: HUANCAVELICA, parent: null}
+    model: ubigeo.ubigeo
+    pk: 080000
+-   fields: {name: HUANCAVELICA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080100
+-   fields: {name: HUANCAVELICA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080101
+-   fields: {name: ACOBAMBILLA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080102
+-   fields: {name: ACORIA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080103
+-   fields: {name: CONAYCA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080104
+-   fields: {name: CUENCA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080105
+-   fields: {name: HUACHOCOLPA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080106
+-   fields: {name: HUAYLLAHUARA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080108
+-   fields: {name: IZCUCHACA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080109
+-   fields: {name: LARIA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080110
+-   fields: {name: MANTA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080111
+-   fields: {name: MARISCAL CACERES, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080112
+-   fields: {name: MOYA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080113
+-   fields: {name: NUEVO OCCORO, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080114
+-   fields: {name: PALCA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080115
+-   fields: {name: PILCHACA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080116
+-   fields: {name: VILCA, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080117
+-   fields: {name: YAULI, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080118
+-   fields: {name: ASCENSION, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080119
+-   fields: {name: HUANDO, parent: 080100}
+    model: ubigeo.ubigeo
+    pk: 080120
+-   fields: {name: ACOBAMBA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080200
+-   fields: {name: ACOBAMBA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080201
+-   fields: {name: ANTA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080202
+-   fields: {name: ANDABAMBA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080203
+-   fields: {name: CAJA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080204
+-   fields: {name: MARCAS, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080205
+-   fields: {name: PAUCARA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080206
+-   fields: {name: POMACOCHA, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080207
+-   fields: {name: ROSARIO, parent: 080200}
+    model: ubigeo.ubigeo
+    pk: 080208
+-   fields: {name: ANGARAES, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080300
+-   fields: {name: LIRCAY, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080301
+-   fields: {name: ANCHONGA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080302
+-   fields: {name: CALLANMARCA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080303
+-   fields: {name: CONGALLA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080304
+-   fields: {name: CHINCHO, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080305
+-   fields: {name: HUALLAY-GRANDE, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080306
+-   fields: {name: HUANCA-HUANCA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080307
+-   fields: {name: JULCAMARCA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080308
+-   fields: {name: SAN ANTONIO DE ANTAPARCO, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080309
+-   fields: {name: SANTO TOMAS DE PATA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080310
+-   fields: {name: SECCLLA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080311
+-   fields: {name: CCOCHACCASA, parent: 080300}
+    model: ubigeo.ubigeo
+    pk: 080312
+-   fields: {name: CASTROVIRREYNA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080400
+-   fields: {name: CASTROVIRREYNA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080401
+-   fields: {name: ARMA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080402
+-   fields: {name: AURAHUA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080403
+-   fields: {name: CAPILLAS, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080405
+-   fields: {name: COCAS, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080406
+-   fields: {name: CHUPAMARCA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080408
+-   fields: {name: HUACHOS, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080409
+-   fields: {name: HUAMATAMBO, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080410
+-   fields: {name: MOLLEPAMPA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080414
+-   fields: {name: SAN JUAN, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080422
+-   fields: {name: TANTARA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080427
+-   fields: {name: TICRAPO, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080428
+-   fields: {name: SANTA ANA, parent: 080400}
+    model: ubigeo.ubigeo
+    pk: 080429
+-   fields: {name: TAYACAJA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080500
+-   fields: {name: PAMPAS, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080501
+-   fields: {name: ACOSTAMBO, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080502
+-   fields: {name: ACRAQUIA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080503
+-   fields: {name: AHUAYCHA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080504
+-   fields: {name: COLCABAMBA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080506
+-   fields: {name: DANIEL HERNANDEZ, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080509
+-   fields: {name: HUACHOCOLPA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080511
+-   fields: {name: HUARIBAMBA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080512
+-   fields: {name: "\xD1AHUIMPUQUIO", parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080515
+-   fields: {name: PAZOS, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080517
+-   fields: {name: QUISHUAR, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080518
+-   fields: {name: SALCABAMBA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080519
+-   fields: {name: SAN MARCOS DE ROCCHAC, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080520
+-   fields: {name: SURCUBAMBA, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080523
+-   fields: {name: TINTAY PUNCU, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080525
+-   fields: {name: SALCAHUASI, parent: 080500}
+    model: ubigeo.ubigeo
+    pk: 080526
+-   fields: {name: HUAYTARA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080600
+-   fields: {name: AYAVI, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080601
+-   fields: {name: CORDOVA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080602
+-   fields: {name: HUAYACUNDO ARMA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080603
+-   fields: {name: HUAYTARA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080604
+-   fields: {name: LARAMARCA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080605
+-   fields: {name: OCOYO, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080606
+-   fields: {name: PILPICHACA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080607
+-   fields: {name: QUERCO, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080608
+-   fields: {name: QUITO-ARMA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080609
+-   fields: {name: SAN ANTONIO DE CUSICANCHA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080610
+-   fields: {name: SAN FRANCISCO DE SANGAYAICO, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080611
+-   fields: {name: SAN ISIDRO, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080612
+-   fields: {name: SANTIAGO DE CHOCORVOS, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080613
+-   fields: {name: SANTIAGO DE QUIRAHUARA, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080614
+-   fields: {name: SANTO DOMINGO DE CAPILLAS, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080615
+-   fields: {name: TAMBO, parent: 080600}
+    model: ubigeo.ubigeo
+    pk: 080616
+-   fields: {name: CHURCAMPA, parent: 080000}
+    model: ubigeo.ubigeo
+    pk: 080700
+-   fields: {name: CHURCAMPA, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080701
+-   fields: {name: ANCO, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080702
+-   fields: {name: CHINCHIHUASI, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080703
+-   fields: {name: EL CARMEN, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080704
+-   fields: {name: LA MERCED, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080705
+-   fields: {name: LOCROJA, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080706
+-   fields: {name: PAUCARBAMBA, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080707
+-   fields: {name: SAN MIGUEL DE MAYOCC, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080708
+-   fields: {name: SAN PEDRO DE CORIS, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080709
+-   fields: {name: PACHAMARCA, parent: 080700}
+    model: ubigeo.ubigeo
+    pk: 080710
+-   fields: {name: HUANUCO, parent: null}
+    model: ubigeo.ubigeo
+    pk: 090000
+-   fields: {name: HUANUCO, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090100
+-   fields: {name: HUANUCO, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090101
+-   fields: {name: CHINCHAO, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090102
+-   fields: {name: CHURUBAMBA, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090103
+-   fields: {name: MARGOS, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090104
+-   fields: {name: QUISQUI, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090105
+-   fields: {name: SAN FRANCISCO DE CAYRAN, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090106
+-   fields: {name: SAN PEDRO DE CHAULAN, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090107
+-   fields: {name: SANTA MARIA DEL VALLE, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090108
+-   fields: {name: YARUMAYO, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090109
+-   fields: {name: AMARILIS, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090110
+-   fields: {name: PILLCO MARCA, parent: 090100}
+    model: ubigeo.ubigeo
+    pk: 090111
+-   fields: {name: AMBO, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090200
+-   fields: {name: AMBO, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090201
+-   fields: {name: CAYNA, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090202
+-   fields: {name: COLPAS, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090203
+-   fields: {name: CONCHAMARCA, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090204
+-   fields: {name: HUACAR, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090205
+-   fields: {name: SAN FRANCISCO, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090206
+-   fields: {name: SAN RAFAEL, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090207
+-   fields: {name: TOMAY-KICHWA, parent: 090200}
+    model: ubigeo.ubigeo
+    pk: 090208
+-   fields: {name: DOS DE MAYO, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090300
+-   fields: {name: LA UNION, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090301
+-   fields: {name: CHUQUIS, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090307
+-   fields: {name: MARIAS, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090312
+-   fields: {name: PACHAS, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090314
+-   fields: {name: QUIVILLA, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090316
+-   fields: {name: RIPAN, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090317
+-   fields: {name: SHUNQUI, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090321
+-   fields: {name: SILLAPATA, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090322
+-   fields: {name: YANAS, parent: 090300}
+    model: ubigeo.ubigeo
+    pk: 090323
+-   fields: {name: HUAMALIES, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090400
+-   fields: {name: LLATA, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090401
+-   fields: {name: ARANCAY, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090402
+-   fields: {name: CHAVIN DE PARIARCA, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090403
+-   fields: {name: JACAS GRANDE, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090404
+-   fields: {name: JIRCAN, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090405
+-   fields: {name: MIRAFLORES, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090406
+-   fields: {name: MONZON, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090407
+-   fields: {name: PUNCHAO, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090408
+-   fields: {name: "PU\xD1OS", parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090409
+-   fields: {name: SINGA, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090410
+-   fields: {name: TANTAMAYO, parent: 090400}
+    model: ubigeo.ubigeo
+    pk: 090411
+-   fields: {name: "MARA\xD1ON", parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090500
+-   fields: {name: HUACRACHUCO, parent: 090500}
+    model: ubigeo.ubigeo
+    pk: 090501
+-   fields: {name: CHOLON, parent: 090500}
+    model: ubigeo.ubigeo
+    pk: 090502
+-   fields: {name: SAN BUENAVENTURA, parent: 090500}
+    model: ubigeo.ubigeo
+    pk: 090505
+-   fields: {name: LEONCIO PRADO, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090600
+-   fields: {name: RUPA-RUPA, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090601
+-   fields: {name: DANIEL ALOMIA ROBLES, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090602
+-   fields: {name: HERMILIO VALDIZAN, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090603
+-   fields: {name: LUYANDO, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090604
+-   fields: {name: MARIANO DAMASO BERAUN, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090605
+-   fields: {name: JOSE CRESPO Y CASTILLO, parent: 090600}
+    model: ubigeo.ubigeo
+    pk: 090606
+-   fields: {name: PACHITEA, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090700
+-   fields: {name: PANAO, parent: 090700}
+    model: ubigeo.ubigeo
+    pk: 090701
+-   fields: {name: CHAGLLA, parent: 090700}
+    model: ubigeo.ubigeo
+    pk: 090702
+-   fields: {name: MOLINO, parent: 090700}
+    model: ubigeo.ubigeo
+    pk: 090704
+-   fields: {name: UMARI, parent: 090700}
+    model: ubigeo.ubigeo
+    pk: 090706
+-   fields: {name: PUERTO INCA, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090800
+-   fields: {name: HONORIA, parent: 090800}
+    model: ubigeo.ubigeo
+    pk: 090801
+-   fields: {name: PUERTO INCA, parent: 090800}
+    model: ubigeo.ubigeo
+    pk: 090802
+-   fields: {name: CODO DEL POZUZO, parent: 090800}
+    model: ubigeo.ubigeo
+    pk: 090803
+-   fields: {name: TOURNAVISTA, parent: 090800}
+    model: ubigeo.ubigeo
+    pk: 090804
+-   fields: {name: YUYAPICHIS, parent: 090800}
+    model: ubigeo.ubigeo
+    pk: 090805
+-   fields: {name: HUACAYBAMBA, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 090900
+-   fields: {name: HUACAYBAMBA, parent: 090900}
+    model: ubigeo.ubigeo
+    pk: 090901
+-   fields: {name: PINRA, parent: 090900}
+    model: ubigeo.ubigeo
+    pk: 090902
+-   fields: {name: CANCHABAMBA, parent: 090900}
+    model: ubigeo.ubigeo
+    pk: 090903
+-   fields: {name: COCHABAMBA, parent: 090900}
+    model: ubigeo.ubigeo
+    pk: 090904
+-   fields: {name: LAURICOCHA, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 091000
+-   fields: {name: JESUS, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091001
+-   fields: {name: "BA\xD1OS", parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091002
+-   fields: {name: SAN FRANCISCO DE ASIS, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091003
+-   fields: {name: QUEROPALCA, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091004
+-   fields: {name: SAN MIGUEL DE CAURI, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091005
+-   fields: {name: RONDOS, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091006
+-   fields: {name: JIVIA, parent: 091000}
+    model: ubigeo.ubigeo
+    pk: 091007
+-   fields: {name: YAROWILCA, parent: 090000}
+    model: ubigeo.ubigeo
+    pk: 091100
+-   fields: {name: CHAVINILLO, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091101
+-   fields: {name: APARICIO POMARES, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091102
+-   fields: {name: CAHUAC, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091103
+-   fields: {name: CHACABAMBA, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091104
+-   fields: {name: JACAS CHICO, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091105
+-   fields: {name: OBAS, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091106
+-   fields: {name: PAMPAMARCA, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091107
+-   fields: {name: CHORAS, parent: 091100}
+    model: ubigeo.ubigeo
+    pk: 091108
+-   fields: {name: ICA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '100000'
+-   fields: {name: ICA, parent: '100000'}
+    model: ubigeo.ubigeo
+    pk: '100100'
+-   fields: {name: ICA, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100101'
+-   fields: {name: "LA TINGUI\xD1A", parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100102'
+-   fields: {name: LOS AQUIJES, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100103'
+-   fields: {name: PARCONA, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100104'
+-   fields: {name: PUEBLO NUEVO, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100105'
+-   fields: {name: SALAS, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100106'
+-   fields: {name: SAN JOSE DE LOS MOLINOS, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100107'
+-   fields: {name: SAN JUAN BAUTISTA, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100108'
+-   fields: {name: SANTIAGO, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100109'
+-   fields: {name: SUBTANJALLA, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100110'
+-   fields: {name: YAUCA DEL ROSARIO, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100111'
+-   fields: {name: TATE, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100112'
+-   fields: {name: PACHACUTEC, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100113'
+-   fields: {name: OCUCAJE, parent: '100100'}
+    model: ubigeo.ubigeo
+    pk: '100114'
+-   fields: {name: CHINCHA, parent: '100000'}
+    model: ubigeo.ubigeo
+    pk: '100200'
+-   fields: {name: CHINCHA ALTA, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100201'
+-   fields: {name: CHAVIN, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100202'
+-   fields: {name: CHINCHA BAJA, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100203'
+-   fields: {name: EL CARMEN, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100204'
+-   fields: {name: GROCIO PRADO, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100205'
+-   fields: {name: SAN PEDRO DE HUACARPANA, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100206'
+-   fields: {name: SUNAMPE, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100207'
+-   fields: {name: TAMBO DE MORA, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100208'
+-   fields: {name: ALTO LARAN, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100209'
+-   fields: {name: PUEBLO NUEVO, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100210'
+-   fields: {name: SAN JUAN DE YANAC, parent: '100200'}
+    model: ubigeo.ubigeo
+    pk: '100211'
+-   fields: {name: NAZCA, parent: '100000'}
+    model: ubigeo.ubigeo
+    pk: '100300'
+-   fields: {name: NAZCA, parent: '100300'}
+    model: ubigeo.ubigeo
+    pk: '100301'
+-   fields: {name: CHANGUILLO, parent: '100300'}
+    model: ubigeo.ubigeo
+    pk: '100302'
+-   fields: {name: EL INGENIO, parent: '100300'}
+    model: ubigeo.ubigeo
+    pk: '100303'
+-   fields: {name: MARCONA, parent: '100300'}
+    model: ubigeo.ubigeo
+    pk: '100304'
+-   fields: {name: VISTA ALEGRE, parent: '100300'}
+    model: ubigeo.ubigeo
+    pk: '100305'
+-   fields: {name: PISCO, parent: '100000'}
+    model: ubigeo.ubigeo
+    pk: '100400'
+-   fields: {name: PISCO, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100401'
+-   fields: {name: HUANCANO, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100402'
+-   fields: {name: HUMAY, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100403'
+-   fields: {name: INDEPENDENCIA, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100404'
+-   fields: {name: PARACAS, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100405'
+-   fields: {name: SAN ANDRES, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100406'
+-   fields: {name: SAN CLEMENTE, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100407'
+-   fields: {name: TUPAC AMARU INCA, parent: '100400'}
+    model: ubigeo.ubigeo
+    pk: '100408'
+-   fields: {name: PALPA, parent: '100000'}
+    model: ubigeo.ubigeo
+    pk: '100500'
+-   fields: {name: PALPA, parent: '100500'}
+    model: ubigeo.ubigeo
+    pk: '100501'
+-   fields: {name: LLIPATA, parent: '100500'}
+    model: ubigeo.ubigeo
+    pk: '100502'
+-   fields: {name: RIO GRANDE, parent: '100500'}
+    model: ubigeo.ubigeo
+    pk: '100503'
+-   fields: {name: SANTA CRUZ, parent: '100500'}
+    model: ubigeo.ubigeo
+    pk: '100504'
+-   fields: {name: TIBILLO, parent: '100500'}
+    model: ubigeo.ubigeo
+    pk: '100505'
+-   fields: {name: JUNIN, parent: null}
+    model: ubigeo.ubigeo
+    pk: '110000'
+-   fields: {name: HUANCAYO, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110100'
+-   fields: {name: HUANCAYO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110101'
+-   fields: {name: CARHUACALLANGA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110103'
+-   fields: {name: COLCA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110104'
+-   fields: {name: CULLHUAS, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110105'
+-   fields: {name: CHACAPAMPA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110106'
+-   fields: {name: CHICCHE, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110107'
+-   fields: {name: CHILCA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110108'
+-   fields: {name: CHONGOS ALTO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110109'
+-   fields: {name: CHUPURO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110112'
+-   fields: {name: EL TAMBO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110113'
+-   fields: {name: HUACRAPUQUIO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110114'
+-   fields: {name: HUALHUAS, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110116'
+-   fields: {name: HUANCAN, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110118'
+-   fields: {name: HUASICANCHA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110119'
+-   fields: {name: HUAYUCACHI, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110120'
+-   fields: {name: INGENIO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110121'
+-   fields: {name: PARIAHUANCA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110122'
+-   fields: {name: PILCOMAYO, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110123'
+-   fields: {name: PUCARA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110124'
+-   fields: {name: QUICHUAY, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110125'
+-   fields: {name: QUILCAS, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110126'
+-   fields: {name: SAN AGUSTIN, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110127'
+-   fields: {name: SAN JERONIMO DE TUNAN, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110128'
+-   fields: {name: SANTO DOMINGO DE ACOBAMBA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110131'
+-   fields: {name: "SA\xD1O", parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110132'
+-   fields: {name: SAPALLANGA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110133'
+-   fields: {name: SICAYA, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110134'
+-   fields: {name: VIQUES, parent: '110100'}
+    model: ubigeo.ubigeo
+    pk: '110136'
+-   fields: {name: CONCEPCION, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110200'
+-   fields: {name: CONCEPCION, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110201'
+-   fields: {name: ACO, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110202'
+-   fields: {name: ANDAMARCA, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110203'
+-   fields: {name: COMAS, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110204'
+-   fields: {name: COCHAS, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110205'
+-   fields: {name: CHAMBARA, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110206'
+-   fields: {name: HEROINAS TOLEDO, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110207'
+-   fields: {name: MANZANARES, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110208'
+-   fields: {name: MARISCAL CASTILLA, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110209'
+-   fields: {name: MATAHUASI, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110210'
+-   fields: {name: MITO, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110211'
+-   fields: {name: NUEVE DE JULIO, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110212'
+-   fields: {name: ORCOTUNA, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110213'
+-   fields: {name: SANTA ROSA DE OCOPA, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110214'
+-   fields: {name: SAN JOSE DE QUERO, parent: '110200'}
+    model: ubigeo.ubigeo
+    pk: '110215'
+-   fields: {name: JAUJA, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110300'
+-   fields: {name: SINCOS, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110328'
+-   fields: {name: JAUJA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110301'
+-   fields: {name: ACOLLA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110302'
+-   fields: {name: APATA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110303'
+-   fields: {name: ATAURA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110304'
+-   fields: {name: CANCHAYLLO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110305'
+-   fields: {name: EL MANTARO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110306'
+-   fields: {name: HUAMALI, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110307'
+-   fields: {name: HUARIPAMPA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110308'
+-   fields: {name: HUERTAS, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110309'
+-   fields: {name: JANJAILLO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110310'
+-   fields: {name: JULCAN, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110311'
+-   fields: {name: "LEONOR ORDO\xD1EZ", parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110312'
+-   fields: {name: LLOCLLAPAMPA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110313'
+-   fields: {name: MARCO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110314'
+-   fields: {name: MASMA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110315'
+-   fields: {name: MOLINOS, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110316'
+-   fields: {name: MONOBAMBA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110317'
+-   fields: {name: MUQUI, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110318'
+-   fields: {name: MUQUIYAUYO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110319'
+-   fields: {name: PACA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110320'
+-   fields: {name: PACCHA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110321'
+-   fields: {name: PANCAN, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110322'
+-   fields: {name: PARCO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110323'
+-   fields: {name: POMACANCHA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110324'
+-   fields: {name: RICRAN, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110325'
+-   fields: {name: SAN LORENZO, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110326'
+-   fields: {name: SAN PEDRO DE CHUNAN, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110327'
+-   fields: {name: TUNAN MARCA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110329'
+-   fields: {name: YAULI, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110330'
+-   fields: {name: CURICACA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110331'
+-   fields: {name: MASMA CHICCHE, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110332'
+-   fields: {name: SAUSA, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110333'
+-   fields: {name: YAUYOS, parent: '110300'}
+    model: ubigeo.ubigeo
+    pk: '110334'
+-   fields: {name: JUNIN, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110400'
+-   fields: {name: JUNIN, parent: '110400'}
+    model: ubigeo.ubigeo
+    pk: '110401'
+-   fields: {name: CARHUAMAYO, parent: '110400'}
+    model: ubigeo.ubigeo
+    pk: '110402'
+-   fields: {name: ONDORES, parent: '110400'}
+    model: ubigeo.ubigeo
+    pk: '110403'
+-   fields: {name: ULCUMAYO, parent: '110400'}
+    model: ubigeo.ubigeo
+    pk: '110404'
+-   fields: {name: TARMA, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110500'
+-   fields: {name: TARMA, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110501'
+-   fields: {name: ACOBAMBA, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110502'
+-   fields: {name: HUARICOLCA, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110503'
+-   fields: {name: HUASAHUASI, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110504'
+-   fields: {name: LA UNION, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110505'
+-   fields: {name: PALCA, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110506'
+-   fields: {name: PALCAMAYO, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110507'
+-   fields: {name: SAN PEDRO DE CAJAS, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110508'
+-   fields: {name: TAPO, parent: '110500'}
+    model: ubigeo.ubigeo
+    pk: '110509'
+-   fields: {name: YAULI, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110600'
+-   fields: {name: LA OROYA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110601'
+-   fields: {name: CHACAPALPA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110602'
+-   fields: {name: HUAY-HUAY, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110603'
+-   fields: {name: MARCAPOMACOCHA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110604'
+-   fields: {name: MOROCOCHA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110605'
+-   fields: {name: PACCHA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110606'
+-   fields: {name: SANTA BARBARA DE CARHUACAYAN, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110607'
+-   fields: {name: SUITUCANCHA, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110608'
+-   fields: {name: YAULI, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110609'
+-   fields: {name: SANTA ROSA DE SACCO, parent: '110600'}
+    model: ubigeo.ubigeo
+    pk: '110610'
+-   fields: {name: SATIPO, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110700'
+-   fields: {name: SATIPO, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110701'
+-   fields: {name: COVIRIALI, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110702'
+-   fields: {name: LLAYLLA, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110703'
+-   fields: {name: MAZAMARI, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110704'
+-   fields: {name: PAMPA HERMOSA, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110705'
+-   fields: {name: PANGOA, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110706'
+-   fields: {name: RIO NEGRO, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110707'
+-   fields: {name: RIO TAMBO, parent: '110700'}
+    model: ubigeo.ubigeo
+    pk: '110708'
+-   fields: {name: CHANCHAMAYO, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110800'
+-   fields: {name: CHANCHAMAYO, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110801'
+-   fields: {name: SAN RAMON, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110802'
+-   fields: {name: VITOC, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110803'
+-   fields: {name: SAN LUIS DE SHUARO, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110804'
+-   fields: {name: PICHANAQUI, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110805'
+-   fields: {name: PERENE, parent: '110800'}
+    model: ubigeo.ubigeo
+    pk: '110806'
+-   fields: {name: CHUPACA, parent: '110000'}
+    model: ubigeo.ubigeo
+    pk: '110900'
+-   fields: {name: CHUPACA, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110901'
+-   fields: {name: AHUAC, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110902'
+-   fields: {name: CHONGOS BAJO, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110903'
+-   fields: {name: HUACHAC, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110904'
+-   fields: {name: HUAMANCACA CHICO, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110905'
+-   fields: {name: SAN JUAN DE YSCOS, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110906'
+-   fields: {name: SAN JUAN DE JARPA, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110907'
+-   fields: {name: TRES DE DICIEMBRE, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110908'
+-   fields: {name: YANACANCHA, parent: '110900'}
+    model: ubigeo.ubigeo
+    pk: '110909'
+-   fields: {name: LA LIBERTAD, parent: null}
+    model: ubigeo.ubigeo
+    pk: '120000'
+-   fields: {name: TRUJILLO, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120100'
+-   fields: {name: TRUJILLO, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120101'
+-   fields: {name: HUANCHACO, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120102'
+-   fields: {name: LAREDO, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120103'
+-   fields: {name: MOCHE, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120104'
+-   fields: {name: SALAVERRY, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120105'
+-   fields: {name: SIMBAL, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120106'
+-   fields: {name: VICTOR LARCO HERRERA, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120107'
+-   fields: {name: POROTO, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120109'
+-   fields: {name: EL PORVENIR, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120110'
+-   fields: {name: LA ESPERANZA, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120111'
+-   fields: {name: FLORENCIA DE MORA, parent: '120100'}
+    model: ubigeo.ubigeo
+    pk: '120112'
+-   fields: {name: BOLIVAR, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120200'
+-   fields: {name: BOLIVAR, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120201'
+-   fields: {name: BAMBAMARCA, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120202'
+-   fields: {name: CONDORMARCA, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120203'
+-   fields: {name: LONGOTEA, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120204'
+-   fields: {name: UCUNCHA, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120205'
+-   fields: {name: UCHUMARCA, parent: '120200'}
+    model: ubigeo.ubigeo
+    pk: '120206'
+-   fields: {name: SANCHEZ CARRION, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120300'
+-   fields: {name: HUAMACHUCO, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120301'
+-   fields: {name: COCHORCO, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120302'
+-   fields: {name: CURGOS, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120303'
+-   fields: {name: CHUGAY, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120304'
+-   fields: {name: MARCABAL, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120305'
+-   fields: {name: SANAGORAN, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120306'
+-   fields: {name: SARIN, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120307'
+-   fields: {name: SARTIMBAMBA, parent: '120300'}
+    model: ubigeo.ubigeo
+    pk: '120308'
+-   fields: {name: OTUZCO, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120400'
+-   fields: {name: OTUZCO, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120401'
+-   fields: {name: AGALLPAMPA, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120402'
+-   fields: {name: CHARAT, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120403'
+-   fields: {name: HUARANCHAL, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120404'
+-   fields: {name: LA CUESTA, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120405'
+-   fields: {name: PARANDAY, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120408'
+-   fields: {name: SALPO, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120409'
+-   fields: {name: SINSICAP, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120410'
+-   fields: {name: USQUIL, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120411'
+-   fields: {name: MACHE, parent: '120400'}
+    model: ubigeo.ubigeo
+    pk: '120413'
+-   fields: {name: PACASMAYO, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120500'
+-   fields: {name: SAN PEDRO DE LLOC, parent: '120500'}
+    model: ubigeo.ubigeo
+    pk: '120501'
+-   fields: {name: GUADALUPE, parent: '120500'}
+    model: ubigeo.ubigeo
+    pk: '120503'
+-   fields: {name: JEQUETEPEQUE, parent: '120500'}
+    model: ubigeo.ubigeo
+    pk: '120504'
+-   fields: {name: PACASMAYO, parent: '120500'}
+    model: ubigeo.ubigeo
+    pk: '120506'
+-   fields: {name: SAN JOSE, parent: '120500'}
+    model: ubigeo.ubigeo
+    pk: '120508'
+-   fields: {name: PATAZ, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120600'
+-   fields: {name: TAYABAMBA, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120601'
+-   fields: {name: BULDIBUYO, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120602'
+-   fields: {name: CHILLIA, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120603'
+-   fields: {name: HUAYLILLAS, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120604'
+-   fields: {name: HUANCASPATA, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120605'
+-   fields: {name: HUAYO, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120606'
+-   fields: {name: ONGON, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120607'
+-   fields: {name: PARCOY, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120608'
+-   fields: {name: PATAZ, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120609'
+-   fields: {name: PIAS, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120610'
+-   fields: {name: TAURIJA, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120611'
+-   fields: {name: URPAY, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120612'
+-   fields: {name: SANTIAGO DE CHALLAS, parent: '120600'}
+    model: ubigeo.ubigeo
+    pk: '120613'
+-   fields: {name: SANTIAGO DE CHUCO, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120700'
+-   fields: {name: SANTIAGO DE CHUCO, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120701'
+-   fields: {name: CACHICADAN, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120702'
+-   fields: {name: MOLLEBAMBA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120703'
+-   fields: {name: MOLLEPATA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120704'
+-   fields: {name: QUIRUVILCA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120705'
+-   fields: {name: SANTA CRUZ DE CHUCA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120706'
+-   fields: {name: SITABAMBA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120707'
+-   fields: {name: ANGASMARCA, parent: '120700'}
+    model: ubigeo.ubigeo
+    pk: '120708'
+-   fields: {name: ASCOPE, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120800'
+-   fields: {name: ASCOPE, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120801'
+-   fields: {name: CHICAMA, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120802'
+-   fields: {name: CHOCOPE, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120803'
+-   fields: {name: SANTIAGO DE CAO, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120804'
+-   fields: {name: MAGDALENA DE CAO, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120805'
+-   fields: {name: PAIJAN, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120806'
+-   fields: {name: RAZURI, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120807'
+-   fields: {name: CASA GRANDE, parent: '120800'}
+    model: ubigeo.ubigeo
+    pk: '120808'
+-   fields: {name: CHEPEN, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '120900'
+-   fields: {name: CHEPEN, parent: '120900'}
+    model: ubigeo.ubigeo
+    pk: '120901'
+-   fields: {name: PACANGA, parent: '120900'}
+    model: ubigeo.ubigeo
+    pk: '120902'
+-   fields: {name: PUEBLO NUEVO, parent: '120900'}
+    model: ubigeo.ubigeo
+    pk: '120903'
+-   fields: {name: JULCAN, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '121000'
+-   fields: {name: JULCAN, parent: '121000'}
+    model: ubigeo.ubigeo
+    pk: '121001'
+-   fields: {name: CARABAMBA, parent: '121000'}
+    model: ubigeo.ubigeo
+    pk: '121002'
+-   fields: {name: CALAMARCA, parent: '121000'}
+    model: ubigeo.ubigeo
+    pk: '121003'
+-   fields: {name: HUASO, parent: '121000'}
+    model: ubigeo.ubigeo
+    pk: '121004'
+-   fields: {name: GRAN CHIMU, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '121100'
+-   fields: {name: CASCAS, parent: '121100'}
+    model: ubigeo.ubigeo
+    pk: '121101'
+-   fields: {name: LUCMA, parent: '121100'}
+    model: ubigeo.ubigeo
+    pk: '121102'
+-   fields: {name: MARMOT, parent: '121100'}
+    model: ubigeo.ubigeo
+    pk: '121103'
+-   fields: {name: SAYAPULLO, parent: '121100'}
+    model: ubigeo.ubigeo
+    pk: '121104'
+-   fields: {name: VIRU, parent: '120000'}
+    model: ubigeo.ubigeo
+    pk: '121200'
+-   fields: {name: VIRU, parent: '121200'}
+    model: ubigeo.ubigeo
+    pk: '121201'
+-   fields: {name: CHAO, parent: '121200'}
+    model: ubigeo.ubigeo
+    pk: '121202'
+-   fields: {name: GUADALUPITO, parent: '121200'}
+    model: ubigeo.ubigeo
+    pk: '121203'
+-   fields: {name: LAMBAYEQUE, parent: null}
+    model: ubigeo.ubigeo
+    pk: '130000'
+-   fields: {name: CHICLAYO, parent: '130000'}
+    model: ubigeo.ubigeo
+    pk: '130100'
+-   fields: {name: CHICLAYO, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130101'
+-   fields: {name: CHONGOYAPE, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130102'
+-   fields: {name: ETEN, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130103'
+-   fields: {name: ETEN PUERTO, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130104'
+-   fields: {name: LAGUNAS, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130105'
+-   fields: {name: MONSEFU, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130106'
+-   fields: {name: NUEVA ARICA, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130107'
+-   fields: {name: OYOTUN, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130108'
+-   fields: {name: PICSI, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130109'
+-   fields: {name: PIMENTEL, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130110'
+-   fields: {name: REQUE, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130111'
+-   fields: {name: JOSE LEONARDO ORTIZ, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130112'
+-   fields: {name: SANTA ROSA, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130113'
+-   fields: {name: "SA\xD1A", parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130114'
+-   fields: {name: LA VICTORIA, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130115'
+-   fields: {name: CAYALTI, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130116'
+-   fields: {name: PATAPO, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130117'
+-   fields: {name: POMALCA, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130118'
+-   fields: {name: PUCALA, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130119'
+-   fields: {name: TUMAN, parent: '130100'}
+    model: ubigeo.ubigeo
+    pk: '130120'
+-   fields: {name: "FERRE\xD1AFE", parent: '130000'}
+    model: ubigeo.ubigeo
+    pk: '130200'
+-   fields: {name: "FERRE\xD1AFE", parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130201'
+-   fields: {name: INCAHUASI, parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130202'
+-   fields: {name: "CA\xD1ARIS", parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130203'
+-   fields: {name: PITIPO, parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130204'
+-   fields: {name: PUEBLO NUEVO, parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130205'
+-   fields: {name: MANUEL ANTONIO MESONES MURO, parent: '130200'}
+    model: ubigeo.ubigeo
+    pk: '130206'
+-   fields: {name: LAMBAYEQUE, parent: '130000'}
+    model: ubigeo.ubigeo
+    pk: '130300'
+-   fields: {name: LAMBAYEQUE, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130301'
+-   fields: {name: CHOCHOPE, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130302'
+-   fields: {name: ILLIMO, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130303'
+-   fields: {name: JAYANCA, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130304'
+-   fields: {name: MOCHUMI, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130305'
+-   fields: {name: MORROPE, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130306'
+-   fields: {name: MOTUPE, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130307'
+-   fields: {name: OLMOS, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130308'
+-   fields: {name: PACORA, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130309'
+-   fields: {name: SALAS, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130310'
+-   fields: {name: SAN JOSE, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130311'
+-   fields: {name: TUCUME, parent: '130300'}
+    model: ubigeo.ubigeo
+    pk: '130312'
+-   fields: {name: LIMA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '140000'
+-   fields: {name: LIMA, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140100'
+-   fields: {name: LIMA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140101'
+-   fields: {name: ANCON, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140102'
+-   fields: {name: ATE, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140103'
+-   fields: {name: "BRE\xD1A", parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140104'
+-   fields: {name: CARABAYLLO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140105'
+-   fields: {name: COMAS, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140106'
+-   fields: {name: CHACLACAYO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140107'
+-   fields: {name: CHORRILLOS, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140108'
+-   fields: {name: LA VICTORIA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140109'
+-   fields: {name: LA MOLINA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140110'
+-   fields: {name: LINCE, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140111'
+-   fields: {name: LURIGANCHO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140112'
+-   fields: {name: LURIN, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140113'
+-   fields: {name: MAGDALENA DEL MAR, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140114'
+-   fields: {name: MIRAFLORES, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140115'
+-   fields: {name: PACHACAMAC, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140116'
+-   fields: {name: PUEBLO LIBRE, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140117'
+-   fields: {name: PUCUSANA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140118'
+-   fields: {name: PUENTE PIEDRA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140119'
+-   fields: {name: PUNTA HERMOSA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140120'
+-   fields: {name: PUNTA NEGRA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140121'
+-   fields: {name: RIMAC, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140122'
+-   fields: {name: SAN BARTOLO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140123'
+-   fields: {name: SAN ISIDRO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140124'
+-   fields: {name: BARRANCO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140125'
+-   fields: {name: SAN MARTIN DE PORRES, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140126'
+-   fields: {name: SAN MIGUEL, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140127'
+-   fields: {name: SANTA MARIA DEL MAR, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140128'
+-   fields: {name: SANTA ROSA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140129'
+-   fields: {name: SANTIAGO DE SURCO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140130'
+-   fields: {name: SURQUILLO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140131'
+-   fields: {name: VILLA MARIA DEL TRIUNFO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140132'
+-   fields: {name: JESUS MARIA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140133'
+-   fields: {name: INDEPENDENCIA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140134'
+-   fields: {name: EL AGUSTINO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140135'
+-   fields: {name: SAN JUAN DE MIRAFLORES, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140136'
+-   fields: {name: SAN JUAN DE LURIGANCHO, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140137'
+-   fields: {name: SAN LUIS, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140138'
+-   fields: {name: CIENEGUILLA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140139'
+-   fields: {name: SAN BORJA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140140'
+-   fields: {name: VILLA EL SALVADOR, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140141'
+-   fields: {name: LOS OLIVOS, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140142'
+-   fields: {name: SANTA ANITA, parent: '140100'}
+    model: ubigeo.ubigeo
+    pk: '140143'
+-   fields: {name: CAJATAMBO, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140200'
+-   fields: {name: CAJATAMBO, parent: '140200'}
+    model: ubigeo.ubigeo
+    pk: '140201'
+-   fields: {name: COPA, parent: '140200'}
+    model: ubigeo.ubigeo
+    pk: '140205'
+-   fields: {name: GORGOR, parent: '140200'}
+    model: ubigeo.ubigeo
+    pk: '140206'
+-   fields: {name: HUANCAPON, parent: '140200'}
+    model: ubigeo.ubigeo
+    pk: '140207'
+-   fields: {name: MANAS, parent: '140200'}
+    model: ubigeo.ubigeo
+    pk: '140208'
+-   fields: {name: CANTA, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140300'
+-   fields: {name: CANTA, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140301'
+-   fields: {name: ARAHUAY, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140302'
+-   fields: {name: HUAMANTANGA, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140303'
+-   fields: {name: HUAROS, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140304'
+-   fields: {name: LACHAQUI, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140305'
+-   fields: {name: SAN BUENAVENTURA, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140306'
+-   fields: {name: SANTA ROSA DE QUIVES, parent: '140300'}
+    model: ubigeo.ubigeo
+    pk: '140307'
+-   fields: {name: "CA\xD1ETE", parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140400'
+-   fields: {name: "SAN VICENTE DE CA\xD1ETE", parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140401'
+-   fields: {name: CALANGO, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140402'
+-   fields: {name: CERRO AZUL, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140403'
+-   fields: {name: COAYLLO, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140404'
+-   fields: {name: CHILCA, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140405'
+-   fields: {name: IMPERIAL, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140406'
+-   fields: {name: LUNAHUANA, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140407'
+-   fields: {name: MALA, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140408'
+-   fields: {name: NUEVO IMPERIAL, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140409'
+-   fields: {name: PACARAN, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140410'
+-   fields: {name: QUILMANA, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140411'
+-   fields: {name: SAN ANTONIO, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140412'
+-   fields: {name: SAN LUIS, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140413'
+-   fields: {name: SANTA CRUZ DE FLORES, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140414'
+-   fields: {name: "ZU\xD1IGA", parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140415'
+-   fields: {name: ASIA, parent: '140400'}
+    model: ubigeo.ubigeo
+    pk: '140416'
+-   fields: {name: HUAURA, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140500'
+-   fields: {name: HUACHO, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140501'
+-   fields: {name: AMBAR, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140502'
+-   fields: {name: CALETA DE CARQUIN, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140504'
+-   fields: {name: CHECRAS, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140505'
+-   fields: {name: HUALMAY, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140506'
+-   fields: {name: HUAURA, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140507'
+-   fields: {name: LEONCIO PRADO, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140508'
+-   fields: {name: PACCHO, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140509'
+-   fields: {name: SANTA LEONOR, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140511'
+-   fields: {name: SANTA MARIA, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140512'
+-   fields: {name: SAYAN, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140513'
+-   fields: {name: VEGUETA, parent: '140500'}
+    model: ubigeo.ubigeo
+    pk: '140516'
+-   fields: {name: HUAROCHIRI, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140600'
+-   fields: {name: MATUCANA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140601'
+-   fields: {name: ANTIOQUIA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140602'
+-   fields: {name: CALLAHUANCA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140603'
+-   fields: {name: CARAMPOMA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140604'
+-   fields: {name: CASTA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140605'
+-   fields: {name: CUENCA (SAN JOSE DE LOS CHORRILLOS), parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140606'
+-   fields: {name: CHICLA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140607'
+-   fields: {name: HUANZA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140608'
+-   fields: {name: HUAROCHIRI, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140609'
+-   fields: {name: LAHUAYTAMBO, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140610'
+-   fields: {name: LANGA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140611'
+-   fields: {name: MARIATANA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140612'
+-   fields: {name: RICARDO PALMA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140613'
+-   fields: {name: SAN ANDRES DE TUPICOCHA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140614'
+-   fields: {name: SAN ANTONIO, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140615'
+-   fields: {name: SAN BARTOLOME, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140616'
+-   fields: {name: SAN DAMIAN, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140617'
+-   fields: {name: SANGALLAYA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140618'
+-   fields: {name: SAN JUAN DE TANTARANCHE, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140619'
+-   fields: {name: SAN LORENZO DE QUINTI, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140620'
+-   fields: {name: SAN MATEO, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140621'
+-   fields: {name: SAN MATEO DE OTAO, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140622'
+-   fields: {name: SAN PEDRO DE HUANCAYRE, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140623'
+-   fields: {name: SANTA CRUZ DE COCACHACRA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140624'
+-   fields: {name: SANTA EULALIA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140625'
+-   fields: {name: SANTIAGO DE ANCHUCAYA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140626'
+-   fields: {name: SANTIAGO DE TUNA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140627'
+-   fields: {name: SANTO DOMINGO DE LOS OLLEROS, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140628'
+-   fields: {name: SURCO, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140629'
+-   fields: {name: HUACHUPAMPA, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140630'
+-   fields: {name: LARAOS, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140631'
+-   fields: {name: SAN JUAN DE IRIS, parent: '140600'}
+    model: ubigeo.ubigeo
+    pk: '140632'
+-   fields: {name: YAUYOS, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140700'
+-   fields: {name: YAUYOS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140701'
+-   fields: {name: ALIS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140702'
+-   fields: {name: AYAUCA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140703'
+-   fields: {name: AYAVIRI, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140704'
+-   fields: {name: AZANGARO, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140705'
+-   fields: {name: CACRA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140706'
+-   fields: {name: CARANIA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140707'
+-   fields: {name: COCHAS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140708'
+-   fields: {name: COLONIA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140709'
+-   fields: {name: CHOCOS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140710'
+-   fields: {name: HUAMPARA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140711'
+-   fields: {name: HUANCAYA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140712'
+-   fields: {name: HUANGASCAR, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140713'
+-   fields: {name: HUANTAN, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140714'
+-   fields: {name: "HUA\xD1EC", parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140715'
+-   fields: {name: LARAOS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140716'
+-   fields: {name: LINCHA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140717'
+-   fields: {name: MIRAFLORES, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140718'
+-   fields: {name: OMAS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140719'
+-   fields: {name: QUINCHES, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140720'
+-   fields: {name: QUINOCAY, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140721'
+-   fields: {name: SAN JOAQUIN, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140722'
+-   fields: {name: SAN PEDRO DE PILAS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140723'
+-   fields: {name: TANTA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140724'
+-   fields: {name: TAURIPAMPA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140725'
+-   fields: {name: TUPE, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140726'
+-   fields: {name: TOMAS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140727'
+-   fields: {name: "VI\xD1AC", parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140728'
+-   fields: {name: VITIS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140729'
+-   fields: {name: HONGOS, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140730'
+-   fields: {name: MADEAN, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140731'
+-   fields: {name: PUTINZA, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140732'
+-   fields: {name: CATAHUASI, parent: '140700'}
+    model: ubigeo.ubigeo
+    pk: '140733'
+-   fields: {name: HUARAL, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140800'
+-   fields: {name: HUARAL, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140801'
+-   fields: {name: ATAVILLOS ALTO, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140802'
+-   fields: {name: ATAVILLOS BAJO, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140803'
+-   fields: {name: AUCALLAMA, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140804'
+-   fields: {name: CHANCAY, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140805'
+-   fields: {name: IHUARI, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140806'
+-   fields: {name: LAMPIAN, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140807'
+-   fields: {name: PACARAOS, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140808'
+-   fields: {name: SAN MIGUEL DE ACOS, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140809'
+-   fields: {name: VEINTISIETE DE NOVIEMBRE, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140810'
+-   fields: {name: SANTA CRUZ DE ANDAMARCA, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140811'
+-   fields: {name: SUMBILCA, parent: '140800'}
+    model: ubigeo.ubigeo
+    pk: '140812'
+-   fields: {name: BARRANCA, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '140900'
+-   fields: {name: BARRANCA, parent: '140900'}
+    model: ubigeo.ubigeo
+    pk: '140901'
+-   fields: {name: PARAMONGA, parent: '140900'}
+    model: ubigeo.ubigeo
+    pk: '140902'
+-   fields: {name: PATIVILCA, parent: '140900'}
+    model: ubigeo.ubigeo
+    pk: '140903'
+-   fields: {name: SUPE, parent: '140900'}
+    model: ubigeo.ubigeo
+    pk: '140904'
+-   fields: {name: SUPE PUERTO, parent: '140900'}
+    model: ubigeo.ubigeo
+    pk: '140905'
+-   fields: {name: OYON, parent: '140000'}
+    model: ubigeo.ubigeo
+    pk: '141000'
+-   fields: {name: OYON, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141001'
+-   fields: {name: NAVAN, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141002'
+-   fields: {name: CAUJUL, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141003'
+-   fields: {name: ANDAJES, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141004'
+-   fields: {name: PACHANGARA, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141005'
+-   fields: {name: COCHAMARCA, parent: '141000'}
+    model: ubigeo.ubigeo
+    pk: '141006'
+-   fields: {name: LORETO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '150000'
+-   fields: {name: MAYNAS, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150100'
+-   fields: {name: IQUITOS, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150101'
+-   fields: {name: ALTO NANAY, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150102'
+-   fields: {name: FERNANDO LORES, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150103'
+-   fields: {name: LAS AMAZONAS, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150104'
+-   fields: {name: MAZAN, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150105'
+-   fields: {name: NAPO, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150106'
+-   fields: {name: PUTUMAYO, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150107'
+-   fields: {name: TORRES CAUSANA, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150108'
+-   fields: {name: INDIANA, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150110'
+-   fields: {name: PUNCHANA, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150111'
+-   fields: {name: BELEN, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150112'
+-   fields: {name: SAN JUAN BAUTISTA, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150113'
+-   fields: {name: TENIENTE MANUEL CLAVERO, parent: '150100'}
+    model: ubigeo.ubigeo
+    pk: '150114'
+-   fields: {name: ALTO AMAZONAS, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150200'
+-   fields: {name: YURIMAGUAS, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150201'
+-   fields: {name: BALSAPUERTO, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150202'
+-   fields: {name: JEBEROS, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150205'
+-   fields: {name: LAGUNAS, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150206'
+-   fields: {name: SANTA CRUZ, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150210'
+-   fields: {name: TENIENTE CESAR LOPEZ ROJAS, parent: '150200'}
+    model: ubigeo.ubigeo
+    pk: '150211'
+-   fields: {name: LORETO, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150300'
+-   fields: {name: NAUTA, parent: '150300'}
+    model: ubigeo.ubigeo
+    pk: '150301'
+-   fields: {name: PARINARI, parent: '150300'}
+    model: ubigeo.ubigeo
+    pk: '150302'
+-   fields: {name: TIGRE, parent: '150300'}
+    model: ubigeo.ubigeo
+    pk: '150303'
+-   fields: {name: URARINAS, parent: '150300'}
+    model: ubigeo.ubigeo
+    pk: '150304'
+-   fields: {name: TROMPETEROS, parent: '150300'}
+    model: ubigeo.ubigeo
+    pk: '150305'
+-   fields: {name: REQUENA, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150400'
+-   fields: {name: REQUENA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150401'
+-   fields: {name: ALTO TAPICHE, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150402'
+-   fields: {name: CAPELO, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150403'
+-   fields: {name: EMILIO SAN MARTIN, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150404'
+-   fields: {name: MAQUIA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150405'
+-   fields: {name: PUINAHUA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150406'
+-   fields: {name: SAPUENA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150407'
+-   fields: {name: SOPLIN, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150408'
+-   fields: {name: TAPICHE, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150409'
+-   fields: {name: JENARO HERRERA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150410'
+-   fields: {name: YAQUERANA, parent: '150400'}
+    model: ubigeo.ubigeo
+    pk: '150411'
+-   fields: {name: UCAYALI, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150500'
+-   fields: {name: CONTAMANA, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150501'
+-   fields: {name: VARGAS GUERRA, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150502'
+-   fields: {name: PADRE MARQUEZ, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150503'
+-   fields: {name: PAMPA HERMOSA, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150504'
+-   fields: {name: SARAYACU, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150505'
+-   fields: {name: INAHUAYA, parent: '150500'}
+    model: ubigeo.ubigeo
+    pk: '150506'
+-   fields: {name: MARISCAL RAMON CASTILLA, parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150600'
+-   fields: {name: RAMON CASTILLA, parent: '150600'}
+    model: ubigeo.ubigeo
+    pk: '150601'
+-   fields: {name: PEBAS, parent: '150600'}
+    model: ubigeo.ubigeo
+    pk: '150602'
+-   fields: {name: YAVARI, parent: '150600'}
+    model: ubigeo.ubigeo
+    pk: '150603'
+-   fields: {name: SAN PABLO, parent: '150600'}
+    model: ubigeo.ubigeo
+    pk: '150604'
+-   fields: {name: "DATEM DEL MARA\xD1ON", parent: '150000'}
+    model: ubigeo.ubigeo
+    pk: '150700'
+-   fields: {name: BARRANCA, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150701'
+-   fields: {name: ANDOAS, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150702'
+-   fields: {name: CAHUAPANAS, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150703'
+-   fields: {name: MANSERICHE, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150704'
+-   fields: {name: MORONA, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150705'
+-   fields: {name: PASTAZA, parent: '150700'}
+    model: ubigeo.ubigeo
+    pk: '150706'
+-   fields: {name: MADRE DE DIOS, parent: null}
+    model: ubigeo.ubigeo
+    pk: '160000'
+-   fields: {name: TAMBOPATA, parent: '160000'}
+    model: ubigeo.ubigeo
+    pk: '160100'
+-   fields: {name: TAMBOPATA, parent: '160100'}
+    model: ubigeo.ubigeo
+    pk: '160101'
+-   fields: {name: INAMBARI, parent: '160100'}
+    model: ubigeo.ubigeo
+    pk: '160102'
+-   fields: {name: LAS PIEDRAS, parent: '160100'}
+    model: ubigeo.ubigeo
+    pk: '160103'
+-   fields: {name: LABERINTO, parent: '160100'}
+    model: ubigeo.ubigeo
+    pk: '160104'
+-   fields: {name: MANU, parent: '160000'}
+    model: ubigeo.ubigeo
+    pk: '160200'
+-   fields: {name: MANU, parent: '160200'}
+    model: ubigeo.ubigeo
+    pk: '160201'
+-   fields: {name: FITZCARRALD, parent: '160200'}
+    model: ubigeo.ubigeo
+    pk: '160202'
+-   fields: {name: MADRE DE DIOS, parent: '160200'}
+    model: ubigeo.ubigeo
+    pk: '160203'
+-   fields: {name: HUEPETUHE, parent: '160200'}
+    model: ubigeo.ubigeo
+    pk: '160204'
+-   fields: {name: TAHUAMANU, parent: '160000'}
+    model: ubigeo.ubigeo
+    pk: '160300'
+-   fields: {name: "I\xD1APARI", parent: '160300'}
+    model: ubigeo.ubigeo
+    pk: '160301'
+-   fields: {name: IBERIA, parent: '160300'}
+    model: ubigeo.ubigeo
+    pk: '160302'
+-   fields: {name: TAHUAMANU, parent: '160300'}
+    model: ubigeo.ubigeo
+    pk: '160303'
+-   fields: {name: MOQUEGUA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '170000'
+-   fields: {name: MARISCAL NIETO, parent: '170000'}
+    model: ubigeo.ubigeo
+    pk: '170100'
+-   fields: {name: MOQUEGUA, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170101'
+-   fields: {name: CARUMAS, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170102'
+-   fields: {name: CUCHUMBAYA, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170103'
+-   fields: {name: SAN CRISTOBAL, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170104'
+-   fields: {name: TORATA, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170105'
+-   fields: {name: SAMEGUA, parent: '170100'}
+    model: ubigeo.ubigeo
+    pk: '170106'
+-   fields: {name: GENERAL SANCHEZ CERRO, parent: '170000'}
+    model: ubigeo.ubigeo
+    pk: '170200'
+-   fields: {name: OMATE, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170201'
+-   fields: {name: COALAQUE, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170202'
+-   fields: {name: CHOJATA, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170203'
+-   fields: {name: "ICHU\xD1A", parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170204'
+-   fields: {name: LA CAPILLA, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170205'
+-   fields: {name: LLOQUE, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170206'
+-   fields: {name: MATALAQUE, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170207'
+-   fields: {name: PUQUINA, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170208'
+-   fields: {name: QUINISTAQUILLAS, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170209'
+-   fields: {name: UBINAS, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170210'
+-   fields: {name: YUNGA, parent: '170200'}
+    model: ubigeo.ubigeo
+    pk: '170211'
+-   fields: {name: ILO, parent: '170000'}
+    model: ubigeo.ubigeo
+    pk: '170300'
+-   fields: {name: ILO, parent: '170300'}
+    model: ubigeo.ubigeo
+    pk: '170301'
+-   fields: {name: EL ALGARROBAL, parent: '170300'}
+    model: ubigeo.ubigeo
+    pk: '170302'
+-   fields: {name: PACOCHA, parent: '170300'}
+    model: ubigeo.ubigeo
+    pk: '170303'
+-   fields: {name: PASCO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '180000'
+-   fields: {name: PASCO, parent: '180000'}
+    model: ubigeo.ubigeo
+    pk: '180100'
+-   fields: {name: CHAUPIMARCA, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180101'
+-   fields: {name: HUACHON, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180103'
+-   fields: {name: HUARIACA, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180104'
+-   fields: {name: HUAYLLAY, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180105'
+-   fields: {name: NINACACA, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180106'
+-   fields: {name: PALLANCHACRA, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180107'
+-   fields: {name: PAUCARTAMBO, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180108'
+-   fields: {name: SAN FRANCISCO DE ASIS DE YARUSYACAN, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180109'
+-   fields: {name: SIMON BOLIVAR, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180110'
+-   fields: {name: TICLACAYAN, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180111'
+-   fields: {name: TINYAHUARCO, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180112'
+-   fields: {name: VICCO, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180113'
+-   fields: {name: YANACANCHA, parent: '180100'}
+    model: ubigeo.ubigeo
+    pk: '180114'
+-   fields: {name: DANIEL CARRION, parent: '180000'}
+    model: ubigeo.ubigeo
+    pk: '180200'
+-   fields: {name: YANAHUANCA, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180201'
+-   fields: {name: CHACAYAN, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180202'
+-   fields: {name: GOYLLARISQUIZGA, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180203'
+-   fields: {name: PAUCAR, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180204'
+-   fields: {name: SAN PEDRO DE PILLAO, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180205'
+-   fields: {name: SANTA ANA DE TUSI, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180206'
+-   fields: {name: TAPUC, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180207'
+-   fields: {name: VILCABAMBA, parent: '180200'}
+    model: ubigeo.ubigeo
+    pk: '180208'
+-   fields: {name: OXAPAMPA, parent: '180000'}
+    model: ubigeo.ubigeo
+    pk: '180300'
+-   fields: {name: OXAPAMPA, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180301'
+-   fields: {name: CHONTABAMBA, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180302'
+-   fields: {name: HUANCABAMBA, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180303'
+-   fields: {name: PUERTO BERMUDEZ, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180304'
+-   fields: {name: VILLA RICA, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180305'
+-   fields: {name: POZUZO, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180306'
+-   fields: {name: PALCAZU, parent: '180300'}
+    model: ubigeo.ubigeo
+    pk: '180307'
+-   fields: {name: PIURA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '190000'
+-   fields: {name: PIURA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190100'
+-   fields: {name: PIURA, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190101'
+-   fields: {name: CASTILLA, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190103'
+-   fields: {name: CATACAOS, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190104'
+-   fields: {name: LA ARENA, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190105'
+-   fields: {name: LA UNION, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190106'
+-   fields: {name: LAS LOMAS, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190107'
+-   fields: {name: TAMBO GRANDE, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190109'
+-   fields: {name: CURA MORI, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190113'
+-   fields: {name: EL TALLAN, parent: '190100'}
+    model: ubigeo.ubigeo
+    pk: '190114'
+-   fields: {name: AYABACA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190200'
+-   fields: {name: AYABACA, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190201'
+-   fields: {name: FRIAS, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190202'
+-   fields: {name: LAGUNAS, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190203'
+-   fields: {name: MONTERO, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190204'
+-   fields: {name: PACAIPAMPA, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190205'
+-   fields: {name: SAPILLICA, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190206'
+-   fields: {name: SICCHEZ, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190207'
+-   fields: {name: SUYO, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190208'
+-   fields: {name: JILILI, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190209'
+-   fields: {name: PAIMAS, parent: '190200'}
+    model: ubigeo.ubigeo
+    pk: '190210'
+-   fields: {name: HUANCABAMBA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190300'
+-   fields: {name: HUANCABAMBA, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190301'
+-   fields: {name: CANCHAQUE, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190302'
+-   fields: {name: HUARMACA, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190303'
+-   fields: {name: SONDOR, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190304'
+-   fields: {name: SONDORILLO, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190305'
+-   fields: {name: EL CARMEN DE LA FRONTERA, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190306'
+-   fields: {name: SAN MIGUEL DE EL FAIQUE, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190307'
+-   fields: {name: LALAQUIZ, parent: '190300'}
+    model: ubigeo.ubigeo
+    pk: '190308'
+-   fields: {name: MORROPON, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190400'
+-   fields: {name: CHULUCANAS, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190401'
+-   fields: {name: BUENOS AIRES, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190402'
+-   fields: {name: CHALACO, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190403'
+-   fields: {name: MORROPON, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190404'
+-   fields: {name: SALITRAL, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190405'
+-   fields: {name: SANTA CATALINA DE MOSSA, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190406'
+-   fields: {name: SANTO DOMINGO, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190407'
+-   fields: {name: LA MATANZA, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190408'
+-   fields: {name: YAMANGO, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190409'
+-   fields: {name: SAN JUAN DE BIGOTE, parent: '190400'}
+    model: ubigeo.ubigeo
+    pk: '190410'
+-   fields: {name: PAITA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190500'
+-   fields: {name: PAITA, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190501'
+-   fields: {name: AMOTAPE, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190502'
+-   fields: {name: ARENAL, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190503'
+-   fields: {name: LA HUACA, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190504'
+-   fields: {name: COLAN, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190505'
+-   fields: {name: TAMARINDO, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190506'
+-   fields: {name: VICHAYAL, parent: '190500'}
+    model: ubigeo.ubigeo
+    pk: '190507'
+-   fields: {name: SULLANA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190600'
+-   fields: {name: SULLANA, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190601'
+-   fields: {name: BELLAVISTA, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190602'
+-   fields: {name: LANCONES, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190603'
+-   fields: {name: MARCAVELICA, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190604'
+-   fields: {name: MIGUEL CHECA, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190605'
+-   fields: {name: QUERECOTILLO, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190606'
+-   fields: {name: SALITRAL, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190607'
+-   fields: {name: IGNACIO ESCUDERO, parent: '190600'}
+    model: ubigeo.ubigeo
+    pk: '190608'
+-   fields: {name: TALARA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190700'
+-   fields: {name: "PARI\xD1AS", parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190701'
+-   fields: {name: EL ALTO, parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190702'
+-   fields: {name: LA BREA, parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190703'
+-   fields: {name: LOBITOS, parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190704'
+-   fields: {name: MANCORA, parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190705'
+-   fields: {name: LOS ORGANOS, parent: '190700'}
+    model: ubigeo.ubigeo
+    pk: '190706'
+-   fields: {name: SECHURA, parent: '190000'}
+    model: ubigeo.ubigeo
+    pk: '190800'
+-   fields: {name: SECHURA, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190801'
+-   fields: {name: VICE, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190802'
+-   fields: {name: BERNAL, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190803'
+-   fields: {name: BELLAVISTA DE LA UNION, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190804'
+-   fields: {name: CRISTO NOS VALGA, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190805'
+-   fields: {name: RINCONADA-LLICUAR, parent: '190800'}
+    model: ubigeo.ubigeo
+    pk: '190806'
+-   fields: {name: PUNO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '200000'
+-   fields: {name: PUNO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200100'
+-   fields: {name: PUNO, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200101'
+-   fields: {name: ACORA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200102'
+-   fields: {name: ATUNCOLLA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200103'
+-   fields: {name: CAPACHICA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200104'
+-   fields: {name: COATA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200105'
+-   fields: {name: CHUCUITO, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200106'
+-   fields: {name: HUATA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200107'
+-   fields: {name: "MA\xD1AZO", parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200108'
+-   fields: {name: PAUCARCOLLA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200109'
+-   fields: {name: PICHACANI, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200110'
+-   fields: {name: SAN ANTONIO, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200111'
+-   fields: {name: TIQUILLACA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200112'
+-   fields: {name: VILQUE, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200113'
+-   fields: {name: PLATERIA, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200114'
+-   fields: {name: AMANTANI, parent: '200100'}
+    model: ubigeo.ubigeo
+    pk: '200115'
+-   fields: {name: AZANGARO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200200'
+-   fields: {name: AZANGARO, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200201'
+-   fields: {name: ACHAYA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200202'
+-   fields: {name: ARAPA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200203'
+-   fields: {name: ASILLO, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200204'
+-   fields: {name: CAMINACA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200205'
+-   fields: {name: CHUPA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200206'
+-   fields: {name: JOSE DOMINGO CHOQUEHUANCA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200207'
+-   fields: {name: "MU\xD1ANI", parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200208'
+-   fields: {name: POTONI, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200210'
+-   fields: {name: SAMAN, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200212'
+-   fields: {name: SAN ANTON, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200213'
+-   fields: {name: SAN JOSE, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200214'
+-   fields: {name: SAN JUAN DE SALINAS, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200215'
+-   fields: {name: SANTIAGO DE PUPUJA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200216'
+-   fields: {name: TIRAPATA, parent: '200200'}
+    model: ubigeo.ubigeo
+    pk: '200217'
+-   fields: {name: CARABAYA, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200300'
+-   fields: {name: MACUSANI, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200301'
+-   fields: {name: AJOYANI, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200302'
+-   fields: {name: AYAPATA, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200303'
+-   fields: {name: COASA, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200304'
+-   fields: {name: CORANI, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200305'
+-   fields: {name: CRUCERO, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200306'
+-   fields: {name: ITUATA, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200307'
+-   fields: {name: OLLACHEA, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200308'
+-   fields: {name: SAN GABAN, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200309'
+-   fields: {name: USICAYOS, parent: '200300'}
+    model: ubigeo.ubigeo
+    pk: '200310'
+-   fields: {name: CHUCUITO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200400'
+-   fields: {name: JULI, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200401'
+-   fields: {name: DESAGUADERO, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200402'
+-   fields: {name: HUACULLANI, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200403'
+-   fields: {name: PISACOMA, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200406'
+-   fields: {name: POMATA, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200407'
+-   fields: {name: ZEPITA, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200410'
+-   fields: {name: KELLUYO, parent: '200400'}
+    model: ubigeo.ubigeo
+    pk: '200412'
+-   fields: {name: HUANCANE, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200500'
+-   fields: {name: HUANCANE, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200501'
+-   fields: {name: COJATA, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200502'
+-   fields: {name: INCHUPALLA, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200504'
+-   fields: {name: PUSI, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200506'
+-   fields: {name: ROSASPATA, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200507'
+-   fields: {name: TARACO, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200508'
+-   fields: {name: VILQUE CHICO, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200509'
+-   fields: {name: HUATASANI, parent: '200500'}
+    model: ubigeo.ubigeo
+    pk: '200511'
+-   fields: {name: LAMPA, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200600'
+-   fields: {name: LAMPA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200601'
+-   fields: {name: CABANILLA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200602'
+-   fields: {name: CALAPUJA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200603'
+-   fields: {name: NICASIO, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200604'
+-   fields: {name: OCUVIRI, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200605'
+-   fields: {name: PALCA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200606'
+-   fields: {name: PARATIA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200607'
+-   fields: {name: PUCARA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200608'
+-   fields: {name: SANTA LUCIA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200609'
+-   fields: {name: VILAVILA, parent: '200600'}
+    model: ubigeo.ubigeo
+    pk: '200610'
+-   fields: {name: MELGAR, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200700'
+-   fields: {name: AYAVIRI, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200701'
+-   fields: {name: ANTAUTA, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200702'
+-   fields: {name: CUPI, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200703'
+-   fields: {name: LLALLI, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200704'
+-   fields: {name: MACARI, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200705'
+-   fields: {name: "NU\xD1OA", parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200706'
+-   fields: {name: ORURILLO, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200707'
+-   fields: {name: SANTA ROSA, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200708'
+-   fields: {name: UMACHIRI, parent: '200700'}
+    model: ubigeo.ubigeo
+    pk: '200709'
+-   fields: {name: SANDIA, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200800'
+-   fields: {name: SANDIA, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200801'
+-   fields: {name: CUYOCUYO, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200803'
+-   fields: {name: LIMBANI, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200804'
+-   fields: {name: PHARA, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200805'
+-   fields: {name: PATAMBUCO, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200806'
+-   fields: {name: QUIACA, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200807'
+-   fields: {name: SAN JUAN DEL ORO, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200808'
+-   fields: {name: YANAHUAYA, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200810'
+-   fields: {name: ALTO INAMBARI, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200811'
+-   fields: {name: SAN PEDRO DE PUTINA PUNCO, parent: '200800'}
+    model: ubigeo.ubigeo
+    pk: '200812'
+-   fields: {name: SAN ROMAN, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '200900'
+-   fields: {name: JULIACA, parent: '200900'}
+    model: ubigeo.ubigeo
+    pk: '200901'
+-   fields: {name: CABANA, parent: '200900'}
+    model: ubigeo.ubigeo
+    pk: '200902'
+-   fields: {name: CABANILLAS, parent: '200900'}
+    model: ubigeo.ubigeo
+    pk: '200903'
+-   fields: {name: CARACOTO, parent: '200900'}
+    model: ubigeo.ubigeo
+    pk: '200904'
+-   fields: {name: YUNGUYO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '201000'
+-   fields: {name: YUNGUYO, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201001'
+-   fields: {name: UNICACHI, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201002'
+-   fields: {name: ANAPIA, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201003'
+-   fields: {name: COPANI, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201004'
+-   fields: {name: CUTURAPI, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201005'
+-   fields: {name: OLLARAYA, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201006'
+-   fields: {name: TINICACHI, parent: '201000'}
+    model: ubigeo.ubigeo
+    pk: '201007'
+-   fields: {name: SAN ANTONIO DE PUTINA, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '201100'
+-   fields: {name: PUTINA, parent: '201100'}
+    model: ubigeo.ubigeo
+    pk: '201101'
+-   fields: {name: PEDRO VILCA APAZA, parent: '201100'}
+    model: ubigeo.ubigeo
+    pk: '201102'
+-   fields: {name: QUILCAPUNCU, parent: '201100'}
+    model: ubigeo.ubigeo
+    pk: '201103'
+-   fields: {name: ANANEA, parent: '201100'}
+    model: ubigeo.ubigeo
+    pk: '201104'
+-   fields: {name: SINA, parent: '201100'}
+    model: ubigeo.ubigeo
+    pk: '201105'
+-   fields: {name: EL COLLAO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '201200'
+-   fields: {name: ILAVE, parent: '201200'}
+    model: ubigeo.ubigeo
+    pk: '201201'
+-   fields: {name: PILCUYO, parent: '201200'}
+    model: ubigeo.ubigeo
+    pk: '201202'
+-   fields: {name: SANTA ROSA, parent: '201200'}
+    model: ubigeo.ubigeo
+    pk: '201203'
+-   fields: {name: CAPAZO, parent: '201200'}
+    model: ubigeo.ubigeo
+    pk: '201204'
+-   fields: {name: CONDURIRI, parent: '201200'}
+    model: ubigeo.ubigeo
+    pk: '201205'
+-   fields: {name: MOHO, parent: '200000'}
+    model: ubigeo.ubigeo
+    pk: '201300'
+-   fields: {name: MOHO, parent: '201300'}
+    model: ubigeo.ubigeo
+    pk: '201301'
+-   fields: {name: CONIMA, parent: '201300'}
+    model: ubigeo.ubigeo
+    pk: '201302'
+-   fields: {name: TILALI, parent: '201300'}
+    model: ubigeo.ubigeo
+    pk: '201303'
+-   fields: {name: HUAYRAPATA, parent: '201300'}
+    model: ubigeo.ubigeo
+    pk: '201304'
+-   fields: {name: SAN MARTIN, parent: null}
+    model: ubigeo.ubigeo
+    pk: '210000'
+-   fields: {name: MOYOBAMBA, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210100'
+-   fields: {name: MOYOBAMBA, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210101'
+-   fields: {name: CALZADA, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210102'
+-   fields: {name: HABANA, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210103'
+-   fields: {name: JEPELACIO, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210104'
+-   fields: {name: SORITOR, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210105'
+-   fields: {name: YANTALO, parent: '210100'}
+    model: ubigeo.ubigeo
+    pk: '210106'
+-   fields: {name: HUALLAGA, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210200'
+-   fields: {name: SAPOSOA, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210201'
+-   fields: {name: PISCOYACU, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210202'
+-   fields: {name: SACANCHE, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210203'
+-   fields: {name: TINGO DE SAPOSOA, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210204'
+-   fields: {name: ALTO SAPOSOA, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210205'
+-   fields: {name: EL ESLABON, parent: '210200'}
+    model: ubigeo.ubigeo
+    pk: '210206'
+-   fields: {name: LAMAS, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210300'
+-   fields: {name: LAMAS, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210301'
+-   fields: {name: BARRANQUITA, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210303'
+-   fields: {name: CAYNARACHI, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210304'
+-   fields: {name: "CU\xD1UMBUQUI", parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210305'
+-   fields: {name: PINTO RECODO, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210306'
+-   fields: {name: RUMISAPA, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210307'
+-   fields: {name: SHANAO, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210311'
+-   fields: {name: TABALOSOS, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210313'
+-   fields: {name: ZAPATERO, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210314'
+-   fields: {name: ALONSO DE ALVARADO, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210315'
+-   fields: {name: SAN ROQUE DE CUMBAZA, parent: '210300'}
+    model: ubigeo.ubigeo
+    pk: '210316'
+-   fields: {name: MARISCAL CACERES, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210400'
+-   fields: {name: JUANJUI, parent: '210400'}
+    model: ubigeo.ubigeo
+    pk: '210401'
+-   fields: {name: CAMPANILLA, parent: '210400'}
+    model: ubigeo.ubigeo
+    pk: '210402'
+-   fields: {name: HUICUNGO, parent: '210400'}
+    model: ubigeo.ubigeo
+    pk: '210403'
+-   fields: {name: PACHIZA, parent: '210400'}
+    model: ubigeo.ubigeo
+    pk: '210404'
+-   fields: {name: PAJARILLO, parent: '210400'}
+    model: ubigeo.ubigeo
+    pk: '210405'
+-   fields: {name: RIOJA, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210500'
+-   fields: {name: RIOJA, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210501'
+-   fields: {name: POSIC, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210502'
+-   fields: {name: YORONGOS, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210503'
+-   fields: {name: YURACYACU, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210504'
+-   fields: {name: NUEVA CAJAMARCA, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210505'
+-   fields: {name: ELIAS SOPLIN VARGAS, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210506'
+-   fields: {name: SAN FERNANDO, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210507'
+-   fields: {name: PARDO MIGUEL, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210508'
+-   fields: {name: AWAJUN, parent: '210500'}
+    model: ubigeo.ubigeo
+    pk: '210509'
+-   fields: {name: SAN MARTIN, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210600'
+-   fields: {name: TARAPOTO, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210601'
+-   fields: {name: ALBERTO LEVEAU, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210602'
+-   fields: {name: CACATACHI, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210604'
+-   fields: {name: CHAZUTA, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210606'
+-   fields: {name: CHIPURANA, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210607'
+-   fields: {name: EL PORVENIR, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210608'
+-   fields: {name: HUIMBAYOC, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210609'
+-   fields: {name: JUAN GUERRA, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210610'
+-   fields: {name: MORALES, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210611'
+-   fields: {name: PAPA-PLAYA, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210612'
+-   fields: {name: SAN ANTONIO, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210616'
+-   fields: {name: SAUCE, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210619'
+-   fields: {name: SHAPAJA, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210620'
+-   fields: {name: LA BANDA DE SHILCAYO, parent: '210600'}
+    model: ubigeo.ubigeo
+    pk: '210621'
+-   fields: {name: BELLAVISTA, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210700'
+-   fields: {name: BELLAVISTA, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210701'
+-   fields: {name: SAN RAFAEL, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210702'
+-   fields: {name: SAN PABLO, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210703'
+-   fields: {name: ALTO BIAVO, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210704'
+-   fields: {name: HUALLAGA, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210705'
+-   fields: {name: BAJO BIAVO, parent: '210700'}
+    model: ubigeo.ubigeo
+    pk: '210706'
+-   fields: {name: TOCACHE, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210800'
+-   fields: {name: TOCACHE, parent: '210800'}
+    model: ubigeo.ubigeo
+    pk: '210801'
+-   fields: {name: NUEVO PROGRESO, parent: '210800'}
+    model: ubigeo.ubigeo
+    pk: '210802'
+-   fields: {name: POLVORA, parent: '210800'}
+    model: ubigeo.ubigeo
+    pk: '210803'
+-   fields: {name: SHUNTE, parent: '210800'}
+    model: ubigeo.ubigeo
+    pk: '210804'
+-   fields: {name: UCHIZA, parent: '210800'}
+    model: ubigeo.ubigeo
+    pk: '210805'
+-   fields: {name: PICOTA, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '210900'
+-   fields: {name: PICOTA, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210901'
+-   fields: {name: BUENOS AIRES, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210902'
+-   fields: {name: CASPISAPA, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210903'
+-   fields: {name: PILLUANA, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210904'
+-   fields: {name: PUCACACA, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210905'
+-   fields: {name: SAN CRISTOBAL, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210906'
+-   fields: {name: SAN HILARION, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210907'
+-   fields: {name: TINGO DE PONASA, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210908'
+-   fields: {name: TRES UNIDOS, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210909'
+-   fields: {name: SHAMBOYACU, parent: '210900'}
+    model: ubigeo.ubigeo
+    pk: '210910'
+-   fields: {name: EL DORADO, parent: '210000'}
+    model: ubigeo.ubigeo
+    pk: '211000'
+-   fields: {name: SAN JOSE DE SISA, parent: '211000'}
+    model: ubigeo.ubigeo
+    pk: '211001'
+-   fields: {name: AGUA BLANCA, parent: '211000'}
+    model: ubigeo.ubigeo
+    pk: '211002'
+-   fields: {name: SHATOJA, parent: '211000'}
+    model: ubigeo.ubigeo
+    pk: '211003'
+-   fields: {name: SAN MARTIN, parent: '211000'}
+    model: ubigeo.ubigeo
+    pk: '211004'
+-   fields: {name: SANTA ROSA, parent: '211000'}
+    model: ubigeo.ubigeo
+    pk: '211005'
+-   fields: {name: TACNA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '220000'
+-   fields: {name: TACNA, parent: '220000'}
+    model: ubigeo.ubigeo
+    pk: '220100'
+-   fields: {name: TACNA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220101'
+-   fields: {name: CALANA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220102'
+-   fields: {name: INCLAN, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220104'
+-   fields: {name: PACHIA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220107'
+-   fields: {name: PALCA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220108'
+-   fields: {name: POCOLLAY, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220109'
+-   fields: {name: SAMA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220110'
+-   fields: {name: ALTO DE LA ALIANZA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220111'
+-   fields: {name: CIUDAD NUEVA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220112'
+-   fields: {name: CORONEL GREGORIO ALBARRACIN LANCHIPA, parent: '220100'}
+    model: ubigeo.ubigeo
+    pk: '220113'
+-   fields: {name: TARATA, parent: '220000'}
+    model: ubigeo.ubigeo
+    pk: '220200'
+-   fields: {name: TARATA, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220201'
+-   fields: {name: HEROES ALBARRACIN, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220205'
+-   fields: {name: ESTIQUE, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220206'
+-   fields: {name: ESTIQUE PAMPA, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220207'
+-   fields: {name: SITAJARA, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220210'
+-   fields: {name: SUSAPAYA, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220211'
+-   fields: {name: TARUCACHI, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220212'
+-   fields: {name: TICACO, parent: '220200'}
+    model: ubigeo.ubigeo
+    pk: '220213'
+-   fields: {name: JORGE BASADRE, parent: '220000'}
+    model: ubigeo.ubigeo
+    pk: '220300'
+-   fields: {name: LOCUMBA, parent: '220300'}
+    model: ubigeo.ubigeo
+    pk: '220301'
+-   fields: {name: ITE, parent: '220300'}
+    model: ubigeo.ubigeo
+    pk: '220302'
+-   fields: {name: ILABAYA, parent: '220300'}
+    model: ubigeo.ubigeo
+    pk: '220303'
+-   fields: {name: CANDARAVE, parent: '220000'}
+    model: ubigeo.ubigeo
+    pk: '220400'
+-   fields: {name: CANDARAVE, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220401'
+-   fields: {name: CAIRANI, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220402'
+-   fields: {name: CURIBAYA, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220403'
+-   fields: {name: HUANUARA, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220404'
+-   fields: {name: QUILAHUANI, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220405'
+-   fields: {name: CAMILACA, parent: '220400'}
+    model: ubigeo.ubigeo
+    pk: '220406'
+-   fields: {name: TUMBES, parent: null}
+    model: ubigeo.ubigeo
+    pk: '230000'
+-   fields: {name: TUMBES, parent: '230000'}
+    model: ubigeo.ubigeo
+    pk: '230100'
+-   fields: {name: TUMBES, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230101'
+-   fields: {name: CORRALES, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230102'
+-   fields: {name: LA CRUZ, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230103'
+-   fields: {name: PAMPAS DE HOSPITAL, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230104'
+-   fields: {name: SAN JACINTO, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230105'
+-   fields: {name: SAN JUAN DE LA VIRGEN, parent: '230100'}
+    model: ubigeo.ubigeo
+    pk: '230106'
+-   fields: {name: CONTRALMIRANTE VILLAR, parent: '230000'}
+    model: ubigeo.ubigeo
+    pk: '230200'
+-   fields: {name: ZORRITOS, parent: '230200'}
+    model: ubigeo.ubigeo
+    pk: '230201'
+-   fields: {name: CASITAS, parent: '230200'}
+    model: ubigeo.ubigeo
+    pk: '230202'
+-   fields: {name: CANOAS DE PUNTA SAL, parent: '230200'}
+    model: ubigeo.ubigeo
+    pk: '230203'
+-   fields: {name: ZARUMILLA, parent: '230000'}
+    model: ubigeo.ubigeo
+    pk: '230300'
+-   fields: {name: ZARUMILLA, parent: '230300'}
+    model: ubigeo.ubigeo
+    pk: '230301'
+-   fields: {name: MATAPALO, parent: '230300'}
+    model: ubigeo.ubigeo
+    pk: '230302'
+-   fields: {name: PAPAYAL, parent: '230300'}
+    model: ubigeo.ubigeo
+    pk: '230303'
+-   fields: {name: AGUAS VERDES, parent: '230300'}
+    model: ubigeo.ubigeo
+    pk: '230304'
+-   fields: {name: CALLAO, parent: null}
+    model: ubigeo.ubigeo
+    pk: '240000'
+-   fields: {name: CALLAO, parent: '240000'}
+    model: ubigeo.ubigeo
+    pk: '240100'
+-   fields: {name: CALLAO, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240101'
+-   fields: {name: BELLAVISTA, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240102'
+-   fields: {name: LA PUNTA, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240103'
+-   fields: {name: CARMEN DE LA LEGUA-REYNOSO, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240104'
+-   fields: {name: LA PERLA, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240105'
+-   fields: {name: VENTANILLA, parent: '240100'}
+    model: ubigeo.ubigeo
+    pk: '240106'
+-   fields: {name: UCAYALI, parent: null}
+    model: ubigeo.ubigeo
+    pk: '250000'
+-   fields: {name: CORONEL PORTILLO, parent: '250000'}
+    model: ubigeo.ubigeo
+    pk: '250100'
+-   fields: {name: CALLERIA, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250101'
+-   fields: {name: YARINACOCHA, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250102'
+-   fields: {name: MASISEA, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250103'
+-   fields: {name: CAMPOVERDE, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250104'
+-   fields: {name: IPARIA, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250105'
+-   fields: {name: NUEVA REQUENA, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250106'
+-   fields: {name: MANANTAY, parent: '250100'}
+    model: ubigeo.ubigeo
+    pk: '250107'
+-   fields: {name: PADRE ABAD, parent: '250000'}
+    model: ubigeo.ubigeo
+    pk: '250200'
+-   fields: {name: PADRE ABAD, parent: '250200'}
+    model: ubigeo.ubigeo
+    pk: '250201'
+-   fields: {name: IRAZOLA, parent: '250200'}
+    model: ubigeo.ubigeo
+    pk: '250202'
+-   fields: {name: CURIMANA, parent: '250200'}
+    model: ubigeo.ubigeo
+    pk: '250203'
+-   fields: {name: ATALAYA, parent: '250000'}
+    model: ubigeo.ubigeo
+    pk: '250300'
+-   fields: {name: RAIMONDI, parent: '250300'}
+    model: ubigeo.ubigeo
+    pk: '250301'
+-   fields: {name: TAHUANIA, parent: '250300'}
+    model: ubigeo.ubigeo
+    pk: '250302'
+-   fields: {name: YURUA, parent: '250300'}
+    model: ubigeo.ubigeo
+    pk: '250303'
+-   fields: {name: SEPAHUA, parent: '250300'}
+    model: ubigeo.ubigeo
+    pk: '250304'
+-   fields: {name: PURUS, parent: '250000'}
+    model: ubigeo.ubigeo
+    pk: '250400'
+-   fields: {name: PURUS, parent: '250400'}
+    model: ubigeo.ubigeo
+    pk: '250401'
+-   fields: {name: AFRICA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '910000'
+-   fields: {name: ARGELIA, parent: '910000'}
+    model: ubigeo.ubigeo
+    pk: '910100'
+-   fields: {name: ARGEL, parent: '910100'}
+    model: ubigeo.ubigeo
+    pk: '910101'
+-   fields: {name: TUNEZ, parent: '910000'}
+    model: ubigeo.ubigeo
+    pk: '910900'
+-   fields: {name: TUNEZ, parent: '910900'}
+    model: ubigeo.ubigeo
+    pk: '910901'
+-   fields: {name: AMERICA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '920000'
+-   fields: {name: ANTILLAS HOLANDESAS, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '920100'
+-   fields: {name: ARUBA, parent: '920100'}
+    model: ubigeo.ubigeo
+    pk: '920101'
+-   fields: {name: BOLIVIA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '920400'
+-   fields: {name: COCHABAMBA, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920401'
+-   fields: {name: LA PAZ, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920403'
+-   fields: {name: SANTA CRUZ, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920405'
+-   fields: {name: BENI, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920406'
+-   fields: {name: CHUQUISACA, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920408'
+-   fields: {name: EL ALTO, parent: '920400'}
+    model: ubigeo.ubigeo
+    pk: '920411'
+-   fields: {name: CANADA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '920600'
+-   fields: {name: MONTREAL, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920601'
+-   fields: {name: OTTAWA, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920602'
+-   fields: {name: TORONTO, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920603'
+-   fields: {name: VANCOUVER, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920604'
+-   fields: {name: MANITOBA, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920605'
+-   fields: {name: ALBERTA, parent: '920600'}
+    model: ubigeo.ubigeo
+    pk: '920608'
+-   fields: {name: COLOMBIA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '920700'
+-   fields: {name: BARRANQUILLA, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920701'
+-   fields: {name: BOGOTA, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920702'
+-   fields: {name: CALI, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920703'
+-   fields: {name: LETICIA, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920705'
+-   fields: {name: MEDELLIN, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920706'
+-   fields: {name: CARTAGENA, parent: '920700'}
+    model: ubigeo.ubigeo
+    pk: '920737'
+-   fields: {name: CUBA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '920900'
+-   fields: {name: LA HABANA, parent: '920900'}
+    model: ubigeo.ubigeo
+    pk: '920901'
+-   fields: {name: CHILE, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921000'
+-   fields: {name: ANTOFAGASTA, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921001'
+-   fields: {name: ARICA, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921002'
+-   fields: {name: CONCEPCION, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921003'
+-   fields: {name: IQUIQUE, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921005'
+-   fields: {name: SANTIAGO, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921006'
+-   fields: {name: VALPARAISO, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921007'
+-   fields: {name: ATACAMA, parent: '921000'}
+    model: ubigeo.ubigeo
+    pk: '921020'
+-   fields: {name: ECUADOR, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921100'
+-   fields: {name: GUAYAQUIL, parent: '921100'}
+    model: ubigeo.ubigeo
+    pk: '921101'
+-   fields: {name: LOJA, parent: '921100'}
+    model: ubigeo.ubigeo
+    pk: '921102'
+-   fields: {name: MACHALA, parent: '921100'}
+    model: ubigeo.ubigeo
+    pk: '921104'
+-   fields: {name: QUITO, parent: '921100'}
+    model: ubigeo.ubigeo
+    pk: '921105'
+-   fields: {name: AZUAY, parent: '921100'}
+    model: ubigeo.ubigeo
+    pk: '921110'
+-   fields: {name: EL SALVADOR, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921200'
+-   fields: {name: SAN SALVADOR, parent: '921200'}
+    model: ubigeo.ubigeo
+    pk: '921201'
+-   fields: {name: GUATEMALA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921500'
+-   fields: {name: GUATEMALA, parent: '921500'}
+    model: ubigeo.ubigeo
+    pk: '921501'
+-   fields: {name: HONDURAS, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921700'
+-   fields: {name: TEGUCIGALPA, parent: '921700'}
+    model: ubigeo.ubigeo
+    pk: '921701'
+-   fields: {name: MEXICO, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '921900'
+-   fields: {name: GUADALAJARA, parent: '921900'}
+    model: ubigeo.ubigeo
+    pk: '921901'
+-   fields: {name: MEXICO D.F., parent: '921900'}
+    model: ubigeo.ubigeo
+    pk: '921902'
+-   fields: {name: MONTERREY, parent: '921900'}
+    model: ubigeo.ubigeo
+    pk: '921903'
+-   fields: {name: NICARAGUA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922000'
+-   fields: {name: MANAGUA, parent: '922000'}
+    model: ubigeo.ubigeo
+    pk: '922001'
+-   fields: {name: PANAMA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922100'
+-   fields: {name: PANAMA, parent: '922100'}
+    model: ubigeo.ubigeo
+    pk: '922101'
+-   fields: {name: DAVID, parent: '922100'}
+    model: ubigeo.ubigeo
+    pk: '922102'
+-   fields: {name: COLON, parent: '922100'}
+    model: ubigeo.ubigeo
+    pk: '922103'
+-   fields: {name: VERAGUAS, parent: '922100'}
+    model: ubigeo.ubigeo
+    pk: '922108'
+-   fields: {name: PARAGUAY, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922200'
+-   fields: {name: ASUNCION, parent: '922200'}
+    model: ubigeo.ubigeo
+    pk: '922201'
+-   fields: {name: REPUBLICA DOMINICANA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922400'
+-   fields: {name: SANTO DOMINGO, parent: '922400'}
+    model: ubigeo.ubigeo
+    pk: '922401'
+-   fields: {name: URUGUAY, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922700'
+-   fields: {name: MONTEVIDEO, parent: '922700'}
+    model: ubigeo.ubigeo
+    pk: '922701'
+-   fields: {name: VENEZUELA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '922800'
+-   fields: {name: BARQUISIMETO, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922801'
+-   fields: {name: CARACAS, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922802'
+-   fields: {name: MARACAIBO, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922804'
+-   fields: {name: PUERTO ORDAZ, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922805'
+-   fields: {name: CARABOBO, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922807'
+-   fields: {name: MERIDA, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922810'
+-   fields: {name: NUEVA ESPARTA, parent: '922800'}
+    model: ubigeo.ubigeo
+    pk: '922819'
+-   fields: {name: GUAYANA FRANCESA, parent: '920000'}
+    model: ubigeo.ubigeo
+    pk: '923000'
+-   fields: {name: CAYENA, parent: '923000'}
+    model: ubigeo.ubigeo
+    pk: '923001'
+-   fields: {name: ASIA, parent: null}
+    model: ubigeo.ubigeo
+    pk: '930000'
+-   fields: {name: COREA DEL SUR, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '930100'
+-   fields: {name: ' REPUBLICA DE', parent: '930100'}
+    model: ubigeo.ubigeo
+    pk: '930101'
+-   fields: {name: CHINA, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '930200'
+-   fields: {name: ' REPUBLICA POPULAR', parent: '930200'}
+    model: ubigeo.ubigeo
+    pk: '930201'
+-   fields: {name: ' REPUBLICA POPULAR', parent: '930200'}
+    model: ubigeo.ubigeo
+    pk: '930206'
+-   fields: {name: ' REPUBLICA POPULAR', parent: '930200'}
+    model: ubigeo.ubigeo
+    pk: '930226'
+-   fields: {name: TAILANDIA, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '931000'
+-   fields: {name: BANGKOK, parent: '931000'}
+    model: ubigeo.ubigeo
+    pk: '931001'
+-   fields: {name: INDONESIA, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '931100'
+-   fields: {name: JAKARTA, parent: '931100'}
+    model: ubigeo.ubigeo
+    pk: '931101'
+-   fields: {name: TURQUIA, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '931500'
+-   fields: {name: ESTAMBUL, parent: '931500'}
+    model: ubigeo.ubigeo
+    pk: '931501'
+-   fields: {name: SINGAPUR, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '932500'
+-   fields: {name: SINGAPUR, parent: '932500'}
+    model: ubigeo.ubigeo
+    pk: '932501'
+-   fields: {name: MALASIA, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '933000'
+-   fields: {name: KUALA LUMPUR, parent: '933000'}
+    model: ubigeo.ubigeo
+    pk: '933001'
+-   fields: {name: FILIPINAS, parent: '930000'}
+    model: ubigeo.ubigeo
+    pk: '933200'
+-   fields: {name: MANILA, parent: '933200'}
+    model: ubigeo.ubigeo
+    pk: '933201'
