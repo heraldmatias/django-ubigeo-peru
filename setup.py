@@ -18,8 +18,6 @@ setup(
     author_email = 'themiseck.rock@gmail.com',
 
     packages = find_packages(),
-    package_dir = {'': 'ubigeo'},
-    #exclude_package_data = { '': ['../persona',] },
 
     install_requires = ['setuptools'],
 
