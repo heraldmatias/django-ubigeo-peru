@@ -9,6 +9,8 @@ Instalar
 -------
 
 En tu settings.py
+
+>
 > INSTALLED_APPS = ( 
 >
 >     ......    
@@ -18,10 +20,18 @@ En tu settings.py
 >)
 >
 
+
 En tu urls.py
+
+> 
 > urlpatterns = patterns('',
 >  
 >     .....
 >     (r'^ubigeo/', include('ubigeo.urls')),
 >
->) 
+>)  
+>
+
+Usar
+----
+Ve nuestro ejemplo en la carpeta ### persona
