@@ -18,7 +18,7 @@ setup(
     author = 'Miguel Angel Cumpa Asuña',
     author_email = 'themiseck.rock@gmail.com',
 
-    packages = find_packages('ubigeo'),
+    packages = find_packages(),
     package_dir = {'': 'ubigeo'},
     exclude_package_data = { '': ['persona','buildout.cfg',] },
 
@@ -33,4 +33,6 @@ setup(
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP',
     ]
+    include_package_data=True,
+    zip_safe=False,
 )
