@@ -6,12 +6,11 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name = 'django-ubige-peru',
+    name = 'django-ubigeo-peru',
     version = '0.1',
     url = 'https://github.com/mickymiseck/django-ubigeo-peru',
     license = 'GPL v.3',
-    description = 'Django app para aplicaciones que requieran usar los ubigeos \
-    del Perú.',
+    description = 'Django app para aplicaciones que requieran usar los ubigeos del Perú.',
 
     long_description = read('README.md'),
 
