@@ -20,7 +20,7 @@ setup(
 
     packages = find_packages(),
     package_dir = {'': 'ubigeo'},
-    exclude_package_data = { '': ['persona','buildout.cfg',] },
+    exclude_package_data = { '': ['persona',] },
 
     install_requires = ['setuptools'],
 
@@ -32,7 +32,7 @@ setup(
         'Operating System :: OS Independent',
         'Programming Language :: Python',
         'Topic :: Internet :: WWW/HTTP',
-    ]
+    ],
     include_package_data=True,
     zip_safe=False,
 )
