@@ -20,7 +20,7 @@ setup(
 
     packages = find_packages('ubigeo'),
     package_dir = {'': 'ubigeo'},
-    exclude_package_data = { '': ['persona',] },
+    exclude_package_data = { '': ['persona','buildout.cfg',] },
 
     install_requires = ['setuptools'],
 
