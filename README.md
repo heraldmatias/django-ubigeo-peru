@@ -34,4 +34,4 @@ En tu urls.py
 
 Usar
 ----
-Ve nuestro ejemplo en la carpeta ### persona
+Ve nuestro ejemplo en la modulo persona.
