@@ -5,6 +5,14 @@ Django-Ubigeo-Peru
 django-ubigeo-peru, es una app que te permitira implementar facilmente 
 los ubigeos de Perú, en tus django app.
 
+Dependencias
+------------
+python 
+    * south
+
+javascript
+    * jquery
+
 Instalar
 -------
 
@@ -35,17 +43,17 @@ Usar
 ----
 En tu models.py:
 
->
+> 
 > from ubigeo.models import Ubigeo
 > 
 > class MyModel(models.Model):
 >     name = models.CharField(max_length=120)
 >     ubigeo = models.ForeignKey(Ubigeo)
->
+> 
 
 en tu forms.py:
 
->
+> 
 > from ubigeo.models import Ubigeo
 > from ubigeo.fields import UbigeoFormField
 > 
@@ -54,3 +62,4 @@ en tu forms.py:
 > 
 >     class Meta:
 >         model = Ubigeo
+> 
