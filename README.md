@@ -62,10 +62,16 @@ en tu forms.py:
 >    
 >    from ubigeo.models import Ubigeo
 >    from ubigeo.fields import UbigeoFormField
->    
+>    fron ubigeo import constant
+>
 >    class MyModelForm(form.ModelForm):
->        ubigeo = UbigeoFormFiel()
+>        ubigeo = UbigeoFormFiel(ubigeo=constant.ALL)
 >    
 >        class Meta:
 >            model = Ubigeo
 >    
+
+ahora tienes opciones:
+  ONLY_PERU
+  ONLY_INTERNATIONAL
+  ALL

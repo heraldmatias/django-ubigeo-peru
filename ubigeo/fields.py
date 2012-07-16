@@ -10,10 +10,11 @@ class UbigeoFormField(forms.MultiValueField):
 
     def __init__(self, *args, **kwargs):
         regiones = Ubigeo.objects.filter(parent__isnull=True).order_by('name')
-        if kwargs['ubigeo'] == constant.ONLY_INTERNATIONAL:
-            regiones   = regiones.filter(ubigeo__startswith'9').order_by('name')
-        else if kwargs['ubigeo'] == constant.ONLY_PERU:
-            regiones = regiones.exclude(ubigeo__startswith='9')
+        if 'ubigeo' in kwargs:
+            if kwargs['ubigeo'] == constant.ONLY_INTERNATIONAL:
+                regiones = regiones.filter(ubigeo__startswith='9').order_by('name')
+            elif kwargs['ubigeo'] == constant.ONLY_PERU:
+                regiones = regiones.exclude(ubigeo__startswith='9')
         provincias = Ubigeo.objects.filter(parent=regiones[0]).order_by('name')
         distritos  = Ubigeo.objects.filter(parent=provincias[0]).order_by('name')
         self.fields = (
@@ -29,8 +30,7 @@ class UbigeoFormField(forms.MultiValueField):
         super(UbigeoFormField, self).__init__(
                             self.fields,
                             self.widget,
-                            *args, 
-                            **kwargs
+                            *args
                             )
 
     def compress(self, data_list):
