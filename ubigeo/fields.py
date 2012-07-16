@@ -4,13 +4,16 @@ from django.core.exceptions import ValidationError
 from widgets import UbigeoWidget
 from models import Ubigeo
 from django.db import models
+import constant
 
 class UbigeoFormField(forms.MultiValueField):
 
-    DISTRICT_DEFAULT='010101'
-
     def __init__(self, *args, **kwargs):
-        regiones   = Ubigeo.objects.filter(parent__isnull=True).order_by('name')
+        regiones = Ubigeo.objects.filter(parent__isnull=True).order_by('name')
+        if kwargs['ubigeo'] == constant.ONLY_INTERNATIONAL:
+            regiones   = regiones.filter(ubigeo__startswith'9').order_by('name')
+        else if kwargs['ubigeo'] == constant.ONLY_PERU:
+            regiones = regiones.exclude(ubigeo__startswith='9')
         provincias = Ubigeo.objects.filter(parent=regiones[0]).order_by('name')
         distritos  = Ubigeo.objects.filter(parent=provincias[0]).order_by('name')
         self.fields = (
@@ -45,7 +48,7 @@ class UbigeoFormField(forms.MultiValueField):
 
     def prepare_value(self, value):
         if value is None:
-            value=DISTRICT_DEFAULT
+            value=constant.DISTRICT_DEFAULT
         distrito = Ubigeo.objects.get(pk=value)
         self.fields[1].queryset = Ubigeo.objects.filter(
                             parent=distrito.parent.parent
