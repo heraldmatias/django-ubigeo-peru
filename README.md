@@ -56,7 +56,7 @@ en tu forms.py:
 ```python
     from ubigeo.models import Ubigeo
     from ubigeo.fields import UbigeoFormField
-    fron ubigeo import constant
+    from ubigeo import constant
 
     class MyModelForm(form.ModelForm):
         ubigeo = UbigeoFormFiel(ubigeo=constant.ALL)
