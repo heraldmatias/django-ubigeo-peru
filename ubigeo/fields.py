@@ -49,7 +49,7 @@ class UbigeoFormField(forms.MultiValueField):
     def prepare_value(self, value):
         if value is None:
             value=constant.DISTRICT_DEFAULT
-        distrito = Ubigeo.objects.get(pk=value)
+        distrito = Ubigeo.objects.get(pk=value[2] if isinstance(value,list) else value)
         self.fields[1].queryset = Ubigeo.objects.filter(
                             parent=distrito.parent.parent
                             )
